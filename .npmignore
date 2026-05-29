@@ -1,0 +1,13 @@
+src/
+tests/
+examples/
+scripts/
+.github/
+*.config.ts
+tsconfig.json
+.eslintrc.json
+eslint.config.js
+.prettierrc
+.editorconfig
+.gitignore
+coverage/

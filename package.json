@@ -1,0 +1,32 @@
+{
+  "name": "@khitab/core",
+  "version": "0.0.0",
+  "description": "Ready-made, gender-aware Arabic phrases for UI text (male/female/neutral). Lightweight, TypeScript-first, framework-agnostic.",
+  "private": true,
+  "sideEffects": false,
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "license": "MIT",
+  "author": "Ahmed Almnsour",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "tsup",
+    "lint": "eslint src tests",
+    "format": "prettier --write \"**/*.{ts,json,md}\"",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate-json.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.9.1",
+    "eslint": "^10.4.0",
+    "prettier": "^3.8.3",
+    "tsup": "^8.5.1",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.60.0",
+    "vitest": "^4.1.7"
+  }
+}
