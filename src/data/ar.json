@@ -1,1 +1,133 @@
-{}
+{
+  "activated": {
+    "male": "لقد فعّلتَ حسابكَ",
+    "female": "لقد فعّلتِ حسابكِ"
+  },
+  "add": {
+    "male": "أضف",
+    "female": "أضيفي"
+  },
+  "approve": {
+    "male": "وافق",
+    "female": "وافقي"
+  },
+  "areYouSure": {
+    "male": "هل أنت متأكد؟",
+    "female": "هل أنتِ متأكدة؟"
+  },
+  "cancel": {
+    "male": "ألغِ",
+    "female": "ألغي"
+  },
+  "close": {
+    "male": "أغلق",
+    "female": "أغلقي"
+  },
+  "confirm": {
+    "male": "أكّد",
+    "female": "أكّدي"
+  },
+  "continue": {
+    "male": "تابع",
+    "female": "تابعي"
+  },
+  "create": {
+    "male": "أنشئ",
+    "female": "أنشئي"
+  },
+  "delete": {
+    "male": "احذف",
+    "female": "احذفي"
+  },
+  "download": {
+    "male": "نزّل",
+    "female": "نزّلي"
+  },
+  "edit": {
+    "male": "عدّل",
+    "female": "عدّلي"
+  },
+  "enterEmail": {
+    "male": "أدخل بريدكَ",
+    "female": "أدخلي بريدكِ"
+  },
+  "filter": {
+    "male": "صفِّ",
+    "female": "صفّي"
+  },
+  "login": {
+    "male": "سجّل الدخول",
+    "female": "سجّلي الدخول"
+  },
+  "logout": {
+    "male": "سجّل الخروج",
+    "female": "سجّلي الخروج"
+  },
+  "open": {
+    "male": "افتح",
+    "female": "افتحي"
+  },
+  "register": {
+    "male": "أنشئ حساباً",
+    "female": "أنشئي حساباً"
+  },
+  "registered": {
+    "male": "لقد سجّلتَ بنجاح",
+    "female": "لقد سجّلتِ بنجاح"
+  },
+  "reject": {
+    "male": "ارفض",
+    "female": "ارفضي"
+  },
+  "remove": {
+    "male": "أزل",
+    "female": "أزيلي"
+  },
+  "save": {
+    "male": "احفظ",
+    "female": "احفظي"
+  },
+  "saved": {
+    "male": "لقد حفظتَ التغييرات",
+    "female": "لقد حفظتِ التغييرات"
+  },
+  "search": {
+    "male": "ابحث",
+    "female": "ابحثي"
+  },
+  "send": {
+    "male": "أرسل",
+    "female": "أرسلي"
+  },
+  "share": {
+    "male": "شارك",
+    "female": "شاركي"
+  },
+  "subscribe": {
+    "male": "اشترك",
+    "female": "اشتركي"
+  },
+  "tryLater": {
+    "neutral": "يرجى المحاولة لاحقاً"
+  },
+  "unsubscribe": {
+    "male": "ألغِ الاشتراك",
+    "female": "ألغي الاشتراك"
+  },
+  "update": {
+    "male": "حدّث",
+    "female": "حدّثي"
+  },
+  "upload": {
+    "male": "ارفع",
+    "female": "ارفعي"
+  },
+  "wantContinue": {
+    "male": "هل تريد المتابعة؟",
+    "female": "هل تريدين المتابعة؟"
+  },
+  "welcomeBack": {
+    "male": "أهلاً بعودتكَ",
+    "female": "أهلاً بعودتكِ"
+  }
+}
