@@ -17,8 +17,8 @@ console.log(khitab('login', 'female')); // سجّلي الدخول
 
 // 2) A naturally-neutral phrase returns the same text for every gender,
 //    with no warning, because the neutral wording is valid for all.
-console.log(khitab('tryLater', 'male')); //   يرجى المحاولة لاحقاً
-console.log(khitab('tryLater', 'female')); // يرجى المحاولة لاحقاً
+console.log(khitab('tryLater', 'male')); //   يُرجى المحاولة لاحقاً
+console.log(khitab('tryLater', 'female')); // يُرجى المحاولة لاحقاً
 
 // 3) Asking for `neutral` on a gendered phrase (none of the gendered phrases
 //    ship a neutral form in v0.1) falls back to `male` and emits a

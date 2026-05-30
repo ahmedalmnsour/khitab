@@ -34,7 +34,7 @@ describe('createKhitab(): الواجهة المتقدمة', () => {
   });
 
   describe('عبارة محايدة طبيعياً (tryLater)', () => {
-    const expected = 'يرجى المحاولة لاحقاً';
+    const expected = 'يُرجى المحاولة لاحقاً';
 
     it('تُرجع neutral دون تحذير بصرف النظر عن الإعدادات', () => {
       const warn = vi.spyOn(console, 'warn').mockImplementation(() => {});

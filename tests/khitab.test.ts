@@ -26,7 +26,7 @@ describe('khitab(): الواجهة البسيطة', () => {
   });
 
   describe('عبارة محايدة طبيعياً (tryLater)', () => {
-    const expected = 'يرجى المحاولة لاحقاً';
+    const expected = 'يُرجى المحاولة لاحقاً';
 
     it('تُرجع neutral عند طلب neutral', () => {
       expect(khitab('tryLater', 'neutral')).toBe(expected);
