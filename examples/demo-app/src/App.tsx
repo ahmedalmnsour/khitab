@@ -23,9 +23,9 @@ export function App() {
   return (
     <div className="page">
       <header className="hero">
-        <h1>khitab · خِطاب</h1>
+        <h1>خِطاب · khitab</h1>
         <p className="tagline">صيغ المخاطبة العربية للواجهات | عرض حيّ</p>
-        <span className="badge">⚠️ Experimental v0.1</span>
+        <span className="badge">⚠️ Experimental pre-alpha</span>
       </header>
 
       <section className="switch" aria-label="اختيار الجنس">
