@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 180" width="380" height="180" role="img" aria-label="khitab dictionary: 1367 phrases, 780 gendered (57%), 587 neutral (43%)">
+  <!-- Design by Ahmed Almnsour -->
+  <defs>
+    <style>
+      .num   { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 700; }
+      .lbl   { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 400; }
+      .lblb  { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 600; }
+    </style>
+  </defs>
+
+  <!-- Ring -->
+  <g transform="rotate(-90 100 90)">
+    <!-- track -->
+    <circle cx="100" cy="90" r="54" fill="none" stroke="#EDE9FE" stroke-width="18"/>
+    <!-- gendered: 57.1% of 339.29 = 193.6 -->
+    <circle cx="100" cy="90" r="54" fill="none" stroke="#5B4FC4" stroke-width="18"
+            stroke-dasharray="193.6 339.29" stroke-dashoffset="0" stroke-linecap="butt"/>
+    <!-- neutral: 42.9% = 145.69, starts after gendered -->
+    <circle cx="100" cy="90" r="54" fill="none" stroke="#A78BFA" stroke-width="18"
+            stroke-dasharray="145.69 339.29" stroke-dashoffset="-193.6" stroke-linecap="butt"/>
+  </g>
+
+  <!-- Center text -->
+  <text x="100" y="86" text-anchor="middle" class="num" font-size="24" fill="#312E81">1367</text>
+  <text x="100" y="108" text-anchor="middle" class="lbl" font-size="14" fill="#6B7280">phrases</text>
+
+  <!-- Legend -->
+  <g transform="translate(212, 56)">
+    <circle cx="8" cy="8" r="8" fill="#5B4FC4"/>
+    <text x="26" y="13" class="lblb" font-size="15" fill="#312E81">Gendered</text>
+    <text x="26" y="32" class="lbl" font-size="13" fill="#6B7280">780 &#183; 57%</text>
+
+    <circle cx="8" cy="62" r="8" fill="#A78BFA"/>
+    <text x="26" y="67" class="lblb" font-size="15" fill="#312E81">Neutral</text>
+    <text x="26" y="86" class="lbl" font-size="13" fill="#6B7280">587 &#183; 43%</text>
+  </g>
+</svg>

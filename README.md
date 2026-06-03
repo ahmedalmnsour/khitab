@@ -17,6 +17,10 @@ Arabic verbs and many sentences change form depending on whom you address: `اح
 
 It ships 1367 reviewed phrases (780 gendered, 587 naturally neutral) across a core set and ten domains, has zero runtime dependencies, and is fully typed.
 
+<p align="center">
+  <img src="./assets/khitab-phrases-en.svg" alt="khitab dictionary: 1367 phrases — 780 gendered (57%), 587 neutral (43%)" width="380" />
+</p>
+
 ## Install
 
 ```bash
