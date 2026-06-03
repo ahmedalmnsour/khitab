@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 [![CI](https://img.shields.io/github/actions/workflow/status/ahmedalmnsour/khitab/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/ahmedalmnsour/khitab/actions/workflows/ci.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Experimental](https://img.shields.io/badge/experimental-pre--alpha-orange?style=flat-square)](https://github.com/ahmedalmnsour/khitab)
+[![Alpha](https://img.shields.io/badge/status-alpha-orange?style=flat-square)](https://github.com/ahmedalmnsour/khitab)
 
 > Ready-made, gender-aware Arabic phrases for UI text. Lightweight, TypeScript-first, framework-agnostic.
 
@@ -15,7 +15,7 @@ This English README is a short gateway. The full documentation, including philos
 
 Arabic verbs and many sentences change form depending on whom you address: `احفظ` to a man, `احفظي` to a woman. Most UIs ignore this and default to the masculine. **khitab** is a small dictionary plus a tiny function that returns the correctly-addressed Arabic phrase for a given gender, so your interface speaks to each user properly.
 
-It ships 33 reviewed phrases for this pre-alpha release, has zero runtime dependencies, and is fully typed.
+It ships 1367 reviewed phrases (780 gendered, 587 naturally neutral) across a core set and ten domains, has zero runtime dependencies, and is fully typed.
 
 ## Install
 
@@ -39,9 +39,9 @@ k('login'); // سجّلي الدخول
 
 See [`examples/basic.ts`](./examples/basic.ts) for the neutral-fallback and error behaviors.
 
-## ⚠️ Experimental (pre-alpha)
+## ⚠️ Alpha
 
-This is an early, unreleased prototype. No npm package published yet. The API and phrase dictionary may change before a stable release.
+This is an alpha release: the phrase dictionary is complete and reviewed, but the library has not yet been tested in real-world projects. No npm package published yet. The API may change before a stable release.
 
 ## Full documentation
 

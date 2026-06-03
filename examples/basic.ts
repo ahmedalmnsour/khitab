@@ -4,7 +4,7 @@
  * Run with a TypeScript runner, e.g.:
  *   npx tsx examples/basic.ts
  *
- * Every asserted output below is taken verbatim from the current pre-alpha dictionary.
+* Every asserted output below is taken verbatim from the current dictionary.
  */
 import { khitab, createKhitab } from '../src/khitab';
 
@@ -20,10 +20,11 @@ console.log(khitab('login', 'female')); // سجّلي الدخول
 console.log(khitab('tryLater', 'male')); //   يُرجى المحاولة لاحقاً
 console.log(khitab('tryLater', 'female')); // يُرجى المحاولة لاحقاً
 
-// 3) Asking for `neutral` on a gendered phrase (none of the gendered phrases
-//    ship a neutral form in this pre-alpha version) falls back to `male` and emits a
-//    console.warn — a practical, not ideal, default. Prefer a real gender,
-//    or contribute a neutral wording.
+// 3) Asking for `neutral` on a gendered phrase that has no neutral form
+//    (like `save` — an action with male/female only) falls back to `male`
+//    and emits a console.warn — a practical, not ideal, default. Many gendered
+//    phrases do ship a neutral (masdar) form; those return it directly.
+//    Prefer a real gender, or contribute a neutral wording where it fits.
 console.log(khitab('save', 'neutral')); // احفظ  (+ warning on stderr)
 
 // 4) Factory — for LOCAL scope only (inside a component or request handler).

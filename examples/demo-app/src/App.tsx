@@ -25,7 +25,7 @@ export function App() {
       <header className="hero">
         <h1>خِطاب · khitab</h1>
         <p className="tagline">صيغ المخاطبة العربية للواجهات | عرض حيّ</p>
-        <span className="badge">⚠️ Experimental pre-alpha</span>
+        <span className="badge">⚠️ Alpha</span>
       </header>
 
       <section className="switch" aria-label="اختيار الجنس">
