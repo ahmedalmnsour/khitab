@@ -1,0 +1,547 @@
+{
+  "absenceJustified": {
+    "male": "قُبِل عذر غيابِكَ",
+    "female": "قُبِل عذر غيابِكِ"
+  },
+  "absenceRecorded": {
+    "male": "تم تسجيل غيابِكَ",
+    "female": "تم تسجيل غيابِكِ"
+  },
+  "academicWarning": {
+    "neutral": "إنذار أكاديمي"
+  },
+  "answerQuestion": {
+    "male": "أجِب عن السؤال",
+    "female": "أجيبي عن السؤال",
+    "neutral": "الإجابة عن السؤال"
+  },
+  "assignmentDueDate": {
+    "neutral": "موعد تسليم الواجب"
+  },
+  "assignmentGraded": {
+    "male": "تم تصحيح واجبِكَ",
+    "female": "تم تصحيح واجبِكِ"
+  },
+  "assignmentLate": {
+    "neutral": "الواجب متأخّر"
+  },
+  "assignmentNeedsRevision": {
+    "male": "يحتاج واجبُكَ إلى مراجعة",
+    "female": "يحتاج واجبُكِ إلى مراجعة"
+  },
+  "assignmentSubmissionClosed": {
+    "neutral": "أُغلق تسليم الواجب"
+  },
+  "assignmentSubmitted": {
+    "male": "تم تسليم واجبِكَ",
+    "female": "تم تسليم واجبِكِ"
+  },
+  "assignmentUnderReview": {
+    "neutral": "الواجب قيد التصحيح"
+  },
+  "attendanceRate": {
+    "neutral": "نسبة الحضور"
+  },
+  "attendanceRecorded": {
+    "male": "تم تسجيل حضورِكَ",
+    "female": "تم تسجيل حضورِكِ"
+  },
+  "calculateGpa": {
+    "male": "احسب معدّلكَ التراكميّ",
+    "female": "احسبي معدّلكِ التراكميّ",
+    "neutral": "حساب المعدّل التراكمي"
+  },
+  "certificateDownloadFailed": {
+    "neutral": "تعذّر تنزيل الشهادة"
+  },
+  "certificateExpired": {
+    "neutral": "انتهت صلاحية الشهادة"
+  },
+  "certificateIssued": {
+    "male": "صدرت شهادتُكَ",
+    "female": "صدرت شهادتُكِ"
+  },
+  "certificateReady": {
+    "male": "شهادتُكَ جاهزة",
+    "female": "شهادتُكِ جاهزة"
+  },
+  "classCancelled": {
+    "neutral": "أُلغيت الحصة"
+  },
+  "classSchedule": {
+    "neutral": "جدول الحصص"
+  },
+  "classStarted": {
+    "neutral": "بدأت الحصة"
+  },
+  "completeLesson": {
+    "male": "أكمِل الدرس",
+    "female": "أكملي الدرس",
+    "neutral": "إكمال الدرس"
+  },
+  "completedCourse": {
+    "male": "لقد أكملتَ المقرّر",
+    "female": "لقد أكملتِ المقرّر"
+  },
+  "completedLesson": {
+    "male": "أكملتَ الدرس",
+    "female": "أكملتِ الدرس"
+  },
+  "completionRate": {
+    "neutral": "نسبة إنجاز المقرّر"
+  },
+  "contactGuardian": {
+    "male": "تواصل مع وليّ الأمر",
+    "female": "تواصلي مع وليّ الأمر",
+    "neutral": "التواصل مع وليّ الأمر"
+  },
+  "continueLearning": {
+    "male": "واصِل التعلّم",
+    "female": "واصلي التعلّم",
+    "neutral": "مواصلة التعلّم"
+  },
+  "correctAnswer": {
+    "neutral": "إجابة صحيحة"
+  },
+  "courseAccessExpired": {
+    "neutral": "انتهت صلاحية الوصول إلى المقرّر"
+  },
+  "courseCompleted": {
+    "neutral": "المقرّر مكتمل"
+  },
+  "courseContent": {
+    "neutral": "محتوى المقرّر"
+  },
+  "courseCredits": {
+    "neutral": "الساعات المعتمدة للمقرّر"
+  },
+  "courseEnrollmentPending": {
+    "male": "تسجيلُكَ في المقرّر قيد المراجعة",
+    "female": "تسجيلُكِ في المقرّر قيد المراجعة"
+  },
+  "courseFull": {
+    "neutral": "المقرّر مكتمل العدد"
+  },
+  "courseMaterials": {
+    "neutral": "مواد المقرّر"
+  },
+  "courseNotStarted": {
+    "neutral": "لم يبدأ المقرّر بعد"
+  },
+  "coursePrerequisites": {
+    "neutral": "المتطلبات السابقة للمقرّر"
+  },
+  "courseProgress": {
+    "male": "تقدّمُكَ في المقرّر",
+    "female": "تقدّمُكِ في المقرّر"
+  },
+  "courseSyllabus": {
+    "neutral": "خطة المقرّر"
+  },
+  "courseUnavailable": {
+    "neutral": "المقرّر غير متاح حالياً"
+  },
+  "deadlineApproaching": {
+    "neutral": "اقترب موعد التسليم"
+  },
+  "discussionReply": {
+    "male": "رُدّ على زميلِكَ",
+    "female": "رُدّي على زميلِكِ",
+    "neutral": "الردّ على الزميل"
+  },
+  "downloadCertificate": {
+    "male": "نزّل الشهادة",
+    "female": "نزّلي الشهادة",
+    "neutral": "تنزيل الشهادة"
+  },
+  "dueToday": {
+    "neutral": "يستحق التسليم اليوم"
+  },
+  "enrollCourse": {
+    "male": "سجّل في المقرّر",
+    "female": "سجّلي في المقرّر",
+    "neutral": "التسجيل في المقرّر"
+  },
+  "enrolledInCourse": {
+    "male": "لقد سجّلتَ في المقرّر",
+    "female": "لقد سجّلتِ في المقرّر"
+  },
+  "enrollmentClosed": {
+    "neutral": "انتهى التسجيل"
+  },
+  "enrollmentOpen": {
+    "neutral": "التسجيل متاح"
+  },
+  "enterVirtualClass": {
+    "male": "ادخل الفصل الافتراضي",
+    "female": "ادخلي الفصل الافتراضي",
+    "neutral": "دخول الفصل الافتراضي"
+  },
+  "examAvailable": {
+    "neutral": "الاختبار متاح الآن"
+  },
+  "examFailed": {
+    "male": "لم تجتَزِ الاختبار",
+    "female": "لم تجتازي الاختبار"
+  },
+  "examInstructions": {
+    "neutral": "تعليمات الاختبار"
+  },
+  "examNotAvailable": {
+    "neutral": "الاختبار غير متاح حالياً"
+  },
+  "examPassed": {
+    "male": "اجتزتَ الاختبار",
+    "female": "اجتزتِ الاختبار"
+  },
+  "examResult": {
+    "neutral": "نتيجة الاختبار"
+  },
+  "examScore": {
+    "male": "درجتُكَ في الاختبار",
+    "female": "درجتُكِ في الاختبار"
+  },
+  "examTimeRemaining": {
+    "neutral": "الوقت المتبقّي للاختبار"
+  },
+  "examTimeUp": {
+    "neutral": "انتهى وقت الاختبار"
+  },
+  "examToday": {
+    "male": "لديكَ اختبار اليوم",
+    "female": "لديكِ اختبار اليوم"
+  },
+  "exceededAbsence": {
+    "male": "تجاوزتَ نسبة الغياب المسموحة",
+    "female": "تجاوزتِ نسبة الغياب المسموحة"
+  },
+  "excuseAbsence": {
+    "male": "قدّم عذر الغياب",
+    "female": "قدّمي عذر الغياب",
+    "neutral": "تقديم عذر الغياب"
+  },
+  "feedbackReceived": {
+    "male": "تلقّيتَ تعليقاً",
+    "female": "تلقّيتِ تعليقاً"
+  },
+  "finalGrade": {
+    "male": "درجتُكَ النهائيّة",
+    "female": "درجتُكِ النهائيّة"
+  },
+  "fullMarks": {
+    "male": "أحرزتَ الدرجة الكاملة",
+    "female": "أحرزتِ الدرجة الكاملة"
+  },
+  "gpa": {
+    "neutral": "المعدّل التراكمي"
+  },
+  "gradeAppeal": {
+    "male": "اطلب مراجعة الدرجة",
+    "female": "اطلبي مراجعة الدرجة",
+    "neutral": "طلب مراجعة الدرجة"
+  },
+  "gradeAssignment": {
+    "male": "صحّح الواجبات",
+    "female": "صحّحي الواجبات",
+    "neutral": "تصحيح الواجبات"
+  },
+  "gradePosted": {
+    "male": "صدرت درجتُكَ",
+    "female": "صدرت درجتُكِ"
+  },
+  "guardianNotified": {
+    "male": "تم إشعار وليّ أمرِكَ",
+    "female": "تم إشعار وليّ أمرِكِ"
+  },
+  "instructorAvailable": {
+    "neutral": "المُحاضِر متاح الآن"
+  },
+  "joinClass": {
+    "male": "انضمّ إلى الفصل",
+    "female": "انضمّي إلى الفصل",
+    "neutral": "الانضمام إلى الفصل"
+  },
+  "joinDiscussion": {
+    "male": "شارك في النقاش",
+    "female": "شاركي في النقاش",
+    "neutral": "المشاركة في النقاش"
+  },
+  "lectureLoadFailed": {
+    "neutral": "تعذّر تحميل المحاضرة"
+  },
+  "lectureNotAvailable": {
+    "neutral": "المحاضرة غير متاحة حالياً"
+  },
+  "lectureNotes": {
+    "neutral": "مذكرات المحاضرة"
+  },
+  "lectureReminder": {
+    "neutral": "تذكير بالمحاضرة"
+  },
+  "lectureSchedule": {
+    "neutral": "جدول المحاضرات"
+  },
+  "lecturerUnavailable": {
+    "neutral": "المُحاضِر غير متاح"
+  },
+  "lessonAvailable": {
+    "neutral": "الدرس متاح الآن"
+  },
+  "lessonLocked": {
+    "neutral": "الدرس مقفل"
+  },
+  "liveLectureJoin": {
+    "male": "انضمّ إلى المحاضرة المباشرة",
+    "female": "انضمّي إلى المحاضرة المباشرة",
+    "neutral": "الانضمام إلى المحاضرة المباشرة"
+  },
+  "liveLectureStarted": {
+    "neutral": "بدأت المحاضرة المباشرة"
+  },
+  "messageFromTeacher": {
+    "neutral": "رسالة من المعلّم"
+  },
+  "messageInstructor": {
+    "male": "راسِل المُحاضِر",
+    "female": "راسلي المُحاضِر",
+    "neutral": "مراسلة المُحاضِر"
+  },
+  "messageTeacher": {
+    "male": "راسِل المعلّم",
+    "female": "راسلي المعلّم",
+    "neutral": "مراسلة المعلّم"
+  },
+  "missingPrerequisite": {
+    "male": "تفتقد إلى متطلّب سابق",
+    "female": "تفتقدين إلى متطلّب سابق"
+  },
+  "moduleCompleted": {
+    "male": "أكملتَ الوحدة",
+    "female": "أكملتِ الوحدة"
+  },
+  "newLessonAdded": {
+    "neutral": "أُضيف درس جديد"
+  },
+  "nextClass": {
+    "neutral": "الحصة القادمة"
+  },
+  "nextLecture": {
+    "neutral": "المحاضرة القادمة"
+  },
+  "nextLesson": {
+    "neutral": "الدرس التالي"
+  },
+  "nextModule": {
+    "neutral": "الوحدة التالية"
+  },
+  "noAssignments": {
+    "neutral": "لا واجبات حالياً"
+  },
+  "noClassesToday": {
+    "neutral": "لا حصص اليوم"
+  },
+  "noEnrolledCourses": {
+    "neutral": "لا مقرّرات مسجّلة"
+  },
+  "noGradesYet": {
+    "neutral": "لا درجات مسجّلة بعد"
+  },
+  "noLecturesToday": {
+    "neutral": "لا محاضرات اليوم"
+  },
+  "notSubmittedYet": {
+    "male": "لم تُسلّم الواجب بعد",
+    "female": "لم تُسلّمي الواجب بعد"
+  },
+  "oneLessonLeft": {
+    "neutral": "بقي درس واحد"
+  },
+  "oneQuestionLeft": {
+    "neutral": "تبقّى سؤال واحد"
+  },
+  "parentMeetingScheduled": {
+    "neutral": "تم تحديد موعد لقاء وليّ الأمر"
+  },
+  "participationGrade": {
+    "male": "درجتُكَ في المشاركة",
+    "female": "درجتُكِ في المشاركة"
+  },
+  "passingGrade": {
+    "neutral": "درجة النجاح"
+  },
+  "peerReview": {
+    "neutral": "تقييم الأقران"
+  },
+  "practiceQuiz": {
+    "neutral": "اختبار تجريبي"
+  },
+  "previousLesson": {
+    "neutral": "الدرس السابق"
+  },
+  "rateCourse": {
+    "male": "قيّم المقرّر",
+    "female": "قيّمي المقرّر",
+    "neutral": "تقييم المقرّر"
+  },
+  "rateLecturer": {
+    "male": "قيّم المُحاضِر",
+    "female": "قيّمي المُحاضِر",
+    "neutral": "تقييم المُحاضِر"
+  },
+  "readAnnouncement": {
+    "male": "اقرأ الإعلان",
+    "female": "اقرئي الإعلان",
+    "neutral": "قراءة الإعلان"
+  },
+  "recordAttendance": {
+    "male": "سجّل الحضور",
+    "female": "سجّلي الحضور",
+    "neutral": "تسجيل الحضور"
+  },
+  "recordGrades": {
+    "male": "ارصُد الدرجات",
+    "female": "ارصُدي الدرجات",
+    "neutral": "رصد الدرجات"
+  },
+  "replayLecture": {
+    "male": "أعِد المحاضرة",
+    "female": "أعيدي المحاضرة",
+    "neutral": "إعادة المحاضرة"
+  },
+  "requestExtension": {
+    "male": "اطلب تمديد التسليم",
+    "female": "اطلبي تمديد التسليم",
+    "neutral": "طلب تمديد التسليم"
+  },
+  "requiredCourse": {
+    "neutral": "مقرّر إجباري"
+  },
+  "resultsPublished": {
+    "neutral": "ظهرت النتائج"
+  },
+  "resumeLecture": {
+    "male": "استأنف المحاضرة",
+    "female": "استأنفي المحاضرة",
+    "neutral": "استئناف المحاضرة"
+  },
+  "resumeLesson": {
+    "male": "استأنف الدرس",
+    "female": "استأنفي الدرس",
+    "neutral": "استئناف الدرس"
+  },
+  "resumeWhereLeftOff": {
+    "male": "استأنف من حيث توقّفتَ",
+    "female": "استأنفي من حيث توقّفتِ",
+    "neutral": "الاستئناف من آخر موضع"
+  },
+  "retakeExam": {
+    "male": "أعِد الاختبار",
+    "female": "أعيدي الاختبار",
+    "neutral": "إعادة الاختبار"
+  },
+  "reviewAnswers": {
+    "male": "راجِع إجاباتكَ",
+    "female": "راجعي إجاباتكِ",
+    "neutral": "مراجعة الإجابات"
+  },
+  "reviewLesson": {
+    "male": "راجِع الدرس",
+    "female": "راجعي الدرس",
+    "neutral": "مراجعة الدرس"
+  },
+  "reviewMistakes": {
+    "male": "راجِع أخطاءكَ",
+    "female": "راجعي أخطاءكِ",
+    "neutral": "مراجعة الأخطاء"
+  },
+  "scheduleConflict": {
+    "neutral": "تعارض في الجدول"
+  },
+  "scheduleUpdated": {
+    "neutral": "تم تحديث الجدول الدراسي"
+  },
+  "schoolDayEnded": {
+    "neutral": "انتهى اليوم الدراسي"
+  },
+  "startCourse": {
+    "male": "ابدأ المقرّر",
+    "female": "ابدئي المقرّر",
+    "neutral": "بدء المقرّر"
+  },
+  "startExam": {
+    "male": "ابدأ الاختبار",
+    "female": "ابدئي الاختبار",
+    "neutral": "بدء الاختبار"
+  },
+  "startedCourse": {
+    "male": "لقد بدأتَ المقرّر",
+    "female": "لقد بدأتِ المقرّر"
+  },
+  "studentDashboard": {
+    "neutral": "لوحة الطالب"
+  },
+  "submitAssignment": {
+    "male": "سلّم الواجب",
+    "female": "سلّمي الواجب",
+    "neutral": "تسليم الواجب"
+  },
+  "submitExam": {
+    "male": "سلّم الاختبار",
+    "female": "سلّمي الاختبار",
+    "neutral": "تسليم الاختبار"
+  },
+  "teacherDashboard": {
+    "neutral": "لوحة المعلّم"
+  },
+  "teacherReply": {
+    "male": "ردَّ المعلّم على سؤالِكَ",
+    "female": "ردَّ المعلّم على سؤالِكِ"
+  },
+  "trainingPathCompleted": {
+    "male": "أكملتَ المسار التعليمي",
+    "female": "أكملتِ المسار التعليمي"
+  },
+  "upcomingAssignments": {
+    "neutral": "الواجبات القادمة"
+  },
+  "upcomingExam": {
+    "neutral": "اختبار قادم"
+  },
+  "viewGrades": {
+    "male": "استعرض درجاتكَ",
+    "female": "استعرضي درجاتكِ",
+    "neutral": "عرض الدرجات"
+  },
+  "viewSchedule": {
+    "male": "استعرض جدولكَ",
+    "female": "استعرضي جدولكِ",
+    "neutral": "عرض الجدول"
+  },
+  "viewTranscript": {
+    "male": "اعرض سجلكَ الأكاديميّ",
+    "female": "اعرضي سجلكِ الأكاديميّ",
+    "neutral": "عرض السجل الأكاديمي"
+  },
+  "waitlistCourse": {
+    "male": "انضمّ إلى قائمة الانتظار",
+    "female": "انضمّي إلى قائمة الانتظار",
+    "neutral": "الانضمام إلى قائمة الانتظار"
+  },
+  "watchLecture": {
+    "male": "شاهِد المحاضرة",
+    "female": "شاهدي المحاضرة",
+    "neutral": "مشاهدة المحاضرة"
+  },
+  "withdrawFromCourse": {
+    "male": "انسحب من المقرّر",
+    "female": "انسحبي من المقرّر",
+    "neutral": "الانسحاب من المقرّر"
+  },
+  "withdrawalConfirmed": {
+    "male": "تم تأكيد انسحابِكَ من المقرّر",
+    "female": "تم تأكيد انسحابِكِ من المقرّر"
+  },
+  "wrongAnswer": {
+    "neutral": "إجابة خاطئة"
+  }
+}

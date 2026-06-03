@@ -1,0 +1,702 @@
+{
+  "appealDecision": {
+    "male": "قدّم تظلماً",
+    "female": "قدّمي تظلماً",
+    "neutral": "تقديم تظلم"
+  },
+  "applicationApproved": {
+    "male": "تمت الموافقة على طلبكَ",
+    "female": "تمت الموافقة على طلبكِ"
+  },
+  "applicationArchived": {
+    "male": "تمت أرشفة معاملتكَ",
+    "female": "تمت أرشفة معاملتكِ"
+  },
+  "applicationCancelled": {
+    "male": "تم إلغاء طلبكَ",
+    "female": "تم إلغاء طلبكِ"
+  },
+  "applicationDraft": {
+    "male": "مسودة طلبكَ",
+    "female": "مسودة طلبكِ"
+  },
+  "applicationIncomplete": {
+    "male": "طلبكَ غير مكتمل",
+    "female": "طلبكِ غير مكتمل"
+  },
+  "applicationNumber": {
+    "neutral": "رقم الطلب"
+  },
+  "applicationOnHold": {
+    "male": "طلبكَ معلّق",
+    "female": "طلبكِ معلّق"
+  },
+  "applicationPendingApproval": {
+    "male": "طلبكَ بانتظار الاعتماد",
+    "female": "طلبكِ بانتظار الاعتماد"
+  },
+  "applicationPendingDocuments": {
+    "male": "طلبكَ بانتظار استكمال المستندات",
+    "female": "طلبكِ بانتظار استكمال المستندات"
+  },
+  "applicationRejected": {
+    "male": "رُفض طلبكَ",
+    "female": "رُفض طلبكِ"
+  },
+  "applicationReturned": {
+    "male": "أُعيد طلبكَ للتعديل",
+    "female": "أُعيد طلبكِ للتعديل"
+  },
+  "applicationSubmitted": {
+    "male": "تم تقديم طلبكَ",
+    "female": "تم تقديم طلبكِ"
+  },
+  "applicationUnderProcessing": {
+    "male": "طلبكَ قيد المعالجة",
+    "female": "طلبكِ قيد المعالجة"
+  },
+  "applicationUnderReview": {
+    "male": "طلبكَ قيد المراجعة",
+    "female": "طلبكِ قيد المراجعة"
+  },
+  "appointRepresentative": {
+    "male": "عيّن ممثّلاً رسمياً",
+    "female": "عيّني ممثّلاً رسمياً",
+    "neutral": "تعيين ممثّل رسمي"
+  },
+  "appointmentCancelled": {
+    "male": "تم إلغاء موعدكَ",
+    "female": "تم إلغاء موعدكِ"
+  },
+  "appointmentConfirmed": {
+    "male": "تم تأكيد موعدكَ",
+    "female": "تم تأكيد موعدكِ"
+  },
+  "appointmentLocation": {
+    "neutral": "مكان الموعد"
+  },
+  "appointmentMissed": {
+    "male": "لم تحضر موعدكَ",
+    "female": "لم تحضري موعدكِ"
+  },
+  "appointmentReminder": {
+    "male": "تذكير بموعدكَ",
+    "female": "تذكير بموعدكِ"
+  },
+  "appointmentRescheduled": {
+    "male": "تمت إعادة جدولة موعدكَ",
+    "female": "تمت إعادة جدولة موعدكِ"
+  },
+  "appointmentTime": {
+    "neutral": "وقت الموعد"
+  },
+  "appointmentTomorrow": {
+    "male": "موعدكَ غداً",
+    "female": "موعدكِ غداً"
+  },
+  "attachmentUnclear": {
+    "neutral": "المستند غير واضح"
+  },
+  "authorizeDigitalAccess": {
+    "male": "فوّض الوصول الرقمي",
+    "female": "فوّضي الوصول الرقمي",
+    "neutral": "تفويض الوصول الرقمي"
+  },
+  "birthCertificateIssued": {
+    "male": "صدرت شهادة ميلادكَ",
+    "female": "صدرت شهادة ميلادكِ"
+  },
+  "birthCertificateReady": {
+    "male": "شهادة ميلادكَ جاهزة للاستلام",
+    "female": "شهادة ميلادكِ جاهزة للاستلام"
+  },
+  "bookAppointment": {
+    "male": "احجز موعداً",
+    "female": "احجزي موعداً",
+    "neutral": "حجز موعد"
+  },
+  "bringOriginalDocuments": {
+    "male": "أحضر المستندات الأصلية",
+    "female": "أحضري المستندات الأصلية",
+    "neutral": "إحضار المستندات الأصلية"
+  },
+  "cancelAppointment": {
+    "male": "ألغِ الموعد",
+    "female": "ألغي الموعد",
+    "neutral": "إلغاء الموعد"
+  },
+  "cancelLicense": {
+    "male": "ألغِ رخصتكَ",
+    "female": "ألغي رخصتكِ",
+    "neutral": "إلغاء الرخصة"
+  },
+  "cancelPermit": {
+    "male": "ألغِ التصريح",
+    "female": "ألغي التصريح",
+    "neutral": "إلغاء التصريح"
+  },
+  "certificateOfGoodConduct": {
+    "neutral": "شهادة حسن سيرة وسلوك"
+  },
+  "checkApplicationStatus": {
+    "male": "تحقّق من حالة طلبكَ",
+    "female": "تحقّقي من حالة طلبكِ",
+    "neutral": "التحقّق من حالة الطلب"
+  },
+  "collectDocument": {
+    "male": "استلم الوثيقة",
+    "female": "استلمي الوثيقة",
+    "neutral": "استلام الوثيقة"
+  },
+  "commercialRegisterNumber": {
+    "neutral": "رقم السجل التجاري"
+  },
+  "completeApplication": {
+    "male": "أكمل الطلب",
+    "female": "أكملي الطلب",
+    "neutral": "إكمال الطلب"
+  },
+  "completeDocuments": {
+    "male": "استكمل مستنداتكَ",
+    "female": "استكملي مستنداتكِ",
+    "neutral": "استكمال المستندات"
+  },
+  "confirmApplicationData": {
+    "male": "أكّد بيانات الطلب",
+    "female": "أكّدي بيانات الطلب",
+    "neutral": "تأكيد بيانات الطلب"
+  },
+  "confirmAppointment": {
+    "male": "أكّد الموعد",
+    "female": "أكّدي الموعد",
+    "neutral": "تأكيد الموعد"
+  },
+  "confirmAttendance": {
+    "male": "أكّد الحضور",
+    "female": "أكّدي الحضور",
+    "neutral": "تأكيد الحضور"
+  },
+  "consentRecorded": {
+    "male": "تم تسجيل موافقتكَ",
+    "female": "تم تسجيل موافقتكِ"
+  },
+  "delegateAuthority": {
+    "male": "فوّض صلاحياتكَ",
+    "female": "فوّضي صلاحياتكِ",
+    "neutral": "تفويض الصلاحيات"
+  },
+  "delegateRequestSubmitted": {
+    "male": "تم تقديم طلب التفويض باسمكَ",
+    "female": "تم تقديم طلب التفويض باسمكِ"
+  },
+  "digitalIdActive": {
+    "male": "هويتكَ الرقمية فعّالة",
+    "female": "هويتكِ الرقمية فعّالة"
+  },
+  "digitalIdentityLocked": {
+    "male": "هويتكَ الرقمية موقوفة مؤقتاً",
+    "female": "هويتكِ الرقمية موقوفة مؤقتاً"
+  },
+  "digitalIdentityVerified": {
+    "male": "تم التحقّق من هويتكَ الرقمية",
+    "female": "تم التحقّق من هويتكِ الرقمية"
+  },
+  "digitalSignature": {
+    "male": "وقّع رقمياً",
+    "female": "وقّعي رقمياً",
+    "neutral": "التوقيع الرقمي"
+  },
+  "digitalSignatureRequired": {
+    "neutral": "يلزم التوقيع الإلكترونيّ"
+  },
+  "documentApproved": {
+    "neutral": "تم اعتماد الوثيقة"
+  },
+  "documentCertified": {
+    "male": "تم تصديق وثيقتكَ",
+    "female": "تم تصديق وثيقتكِ"
+  },
+  "documentCopy": {
+    "neutral": "نسخة طبق الأصل"
+  },
+  "documentExpired": {
+    "male": "انتهت صلاحية وثيقتكَ",
+    "female": "انتهت صلاحية وثيقتكِ"
+  },
+  "documentExpiresOn": {
+    "male": "تنتهي صلاحية وثيقتكَ في",
+    "female": "تنتهي صلاحية وثيقتكِ في"
+  },
+  "documentExpiringSoon": {
+    "male": "تنتهي صلاحية وثيقتكَ قريباً",
+    "female": "تنتهي صلاحية وثيقتكِ قريباً"
+  },
+  "documentIssued": {
+    "male": "صدرت وثيقتكَ",
+    "female": "صدرت وثيقتكِ"
+  },
+  "documentNeedsAttestation": {
+    "neutral": "الوثيقة تحتاج إلى تصديق"
+  },
+  "documentNotValid": {
+    "neutral": "الوثيقة غير صالحة"
+  },
+  "documentReadyForCollection": {
+    "male": "وثيقتكَ جاهزة للاستلام",
+    "female": "وثيقتكِ جاهزة للاستلام"
+  },
+  "documentRejected": {
+    "neutral": "رُفضت الوثيقة"
+  },
+  "documentSigned": {
+    "male": "تم توقيع وثيقتكَ",
+    "female": "تم توقيع وثيقتكِ"
+  },
+  "documentUnderVerification": {
+    "neutral": "الوثيقة قيد التحقّق"
+  },
+  "documentsRequired": {
+    "neutral": "المستندات المطلوبة"
+  },
+  "eligibilityConfirmed": {
+    "male": "أنتَ مؤهّل",
+    "female": "أنتِ مؤهّلة"
+  },
+  "enterDocumentNumber": {
+    "male": "أدخل رقم الوثيقة",
+    "female": "أدخلي رقم الوثيقة",
+    "neutral": "إدخال رقم الوثيقة"
+  },
+  "enterIdNumber": {
+    "male": "أدخل رقم هويتكَ",
+    "female": "أدخلي رقم هويتكِ",
+    "neutral": "إدخال رقم الهوية"
+  },
+  "enterPermitNumber": {
+    "male": "أدخل رقم التصريح",
+    "female": "أدخلي رقم التصريح",
+    "neutral": "إدخال رقم التصريح"
+  },
+  "evaluateService": {
+    "male": "قيّم الخدمة",
+    "female": "قيّمي الخدمة",
+    "neutral": "تقييم الخدمة"
+  },
+  "fingerprintRequired": {
+    "neutral": "مطلوب بصمة الإصبع"
+  },
+  "idExpired": {
+    "male": "انتهت صلاحية هويتكَ",
+    "female": "انتهت صلاحية هويتكِ"
+  },
+  "idRenewed": {
+    "male": "تم تجديد هويتكَ",
+    "female": "تم تجديد هويتكِ"
+  },
+  "inquireAboutViolation": {
+    "male": "استعلم عن مخالفاتكَ",
+    "female": "استعلمي عن مخالفاتكِ",
+    "neutral": "الاستعلام عن المخالفات"
+  },
+  "inquiryNumber": {
+    "neutral": "رقم الاستعلام"
+  },
+  "issuanceDate": {
+    "neutral": "تاريخ الإصدار"
+  },
+  "issueBirthCertificate": {
+    "male": "أصدر شهادة ميلاد",
+    "female": "أصدري شهادة ميلاد",
+    "neutral": "إصدار شهادة ميلاد"
+  },
+  "issueDocument": {
+    "male": "أصدر الوثيقة",
+    "female": "أصدري الوثيقة",
+    "neutral": "إصدار الوثيقة"
+  },
+  "issueLicense": {
+    "male": "أصدر الرخصة",
+    "female": "أصدري الرخصة",
+    "neutral": "إصدار الرخصة"
+  },
+  "issuePassport": {
+    "male": "أصدر جواز السفر",
+    "female": "أصدري جواز السفر",
+    "neutral": "إصدار جواز السفر"
+  },
+  "issuePermit": {
+    "male": "أصدر التصريح",
+    "female": "أصدري التصريح",
+    "neutral": "إصدار التصريح"
+  },
+  "licenseActive": {
+    "male": "رخصتكَ سارية المفعول",
+    "female": "رخصتكِ سارية المفعول"
+  },
+  "licenseCancelled": {
+    "male": "تم إلغاء رخصتكَ",
+    "female": "تم إلغاء رخصتكِ"
+  },
+  "licenseExpired": {
+    "male": "انتهت صلاحية رخصتكَ",
+    "female": "انتهت صلاحية رخصتكِ"
+  },
+  "licenseNumber": {
+    "neutral": "رقم الرخصة"
+  },
+  "licenseRenewed": {
+    "male": "تم تجديد رخصتكَ",
+    "female": "تم تجديد رخصتكِ"
+  },
+  "licenseSuspended": {
+    "male": "تم تعليق رخصتكَ",
+    "female": "تم تعليق رخصتكِ"
+  },
+  "licenseUnderReview": {
+    "male": "رخصتكَ قيد المراجعة",
+    "female": "رخصتكِ قيد المراجعة"
+  },
+  "linkDependents": {
+    "male": "اربط التابعين",
+    "female": "اربطي التابعين",
+    "neutral": "ربط التابعين"
+  },
+  "missingOfficialDocument": {
+    "neutral": "مستند رسمي مفقود"
+  },
+  "municipalityLicense": {
+    "neutral": "رخصة بلدية"
+  },
+  "nationalAddress": {
+    "neutral": "العنوان الوطني"
+  },
+  "nationalAddressRequired": {
+    "neutral": "العنوان الوطني مطلوب"
+  },
+  "nationalIdNumber": {
+    "neutral": "رقم الهوية الوطنية"
+  },
+  "newOfficialNotice": {
+    "neutral": "إشعار رسميّ جديد"
+  },
+  "noActiveApplications": {
+    "neutral": "لا توجد معاملات نشطة"
+  },
+  "noSlotsAvailable": {
+    "neutral": "لا تتوفّر مواعيد متاحة"
+  },
+  "notEligible": {
+    "male": "أنتَ غير مؤهّل",
+    "female": "أنتِ غير مؤهّلة"
+  },
+  "officeClosed": {
+    "neutral": "المكتب مغلق حالياً"
+  },
+  "officialNoticeArchived": {
+    "neutral": "تمت أرشفة الإشعار الرسمي"
+  },
+  "officialNoticeReceived": {
+    "male": "وصلَكَ إشعار رسمي",
+    "female": "وصلَكِ إشعار رسمي"
+  },
+  "oldIdNumber": {
+    "neutral": "رقم الهوية القديم"
+  },
+  "passportExpired": {
+    "male": "انتهت صلاحية جواز سفركَ",
+    "female": "انتهت صلاحية جواز سفركِ"
+  },
+  "passportReadyForCollection": {
+    "male": "جواز سفركَ جاهز للاستلام",
+    "female": "جواز سفركِ جاهز للاستلام"
+  },
+  "permitActive": {
+    "male": "تصريحكَ ساري المفعول",
+    "female": "تصريحكِ ساري المفعول"
+  },
+  "permitApproved": {
+    "male": "تمت الموافقة على تصريحكَ",
+    "female": "تمت الموافقة على تصريحكِ"
+  },
+  "permitExpired": {
+    "male": "انتهى تصريحكَ",
+    "female": "انتهى تصريحكِ"
+  },
+  "permitRejected": {
+    "male": "رُفض تصريحكَ",
+    "female": "رُفض تصريحكِ"
+  },
+  "permitRenewed": {
+    "male": "تم تجديد تصريحكَ",
+    "female": "تم تجديد تصريحكِ"
+  },
+  "permitRevoked": {
+    "male": "تم سحب تصريحكَ",
+    "female": "تم سحب تصريحكِ"
+  },
+  "permitSuspended": {
+    "male": "تم تعليق تصريحكَ",
+    "female": "تم تعليق تصريحكِ"
+  },
+  "permitUnderInspection": {
+    "male": "تصريحكَ قيد التفتيش",
+    "female": "تصريحكِ قيد التفتيش"
+  },
+  "previousApplicationNumber": {
+    "neutral": "رقم الطلب السابق"
+  },
+  "printAppointmentSlip": {
+    "male": "اطبع إشعار الموعد",
+    "female": "اطبعي إشعار الموعد",
+    "neutral": "طباعة إشعار الموعد"
+  },
+  "printDocument": {
+    "male": "اطبع الوثيقة",
+    "female": "اطبعي الوثيقة",
+    "neutral": "طباعة الوثيقة"
+  },
+  "printLicense": {
+    "male": "اطبع الرخصة",
+    "female": "اطبعي الرخصة",
+    "neutral": "طباعة الرخصة"
+  },
+  "printPermit": {
+    "male": "اطبع التصريح",
+    "female": "اطبعي التصريح",
+    "neutral": "طباعة التصريح"
+  },
+  "proofOfResidence": {
+    "neutral": "إثبات سكن"
+  },
+  "queryTransaction": {
+    "male": "استعلم عن المعاملة",
+    "female": "استعلمي عن المعاملة",
+    "neutral": "الاستعلام عن المعاملة"
+  },
+  "referenceNumber": {
+    "neutral": "الرقم المرجعي"
+  },
+  "renewId": {
+    "male": "جدّد هويتكَ",
+    "female": "جدّدي هويتكِ",
+    "neutral": "تجديد الهوية"
+  },
+  "renewLicense": {
+    "male": "جدّد الرخصة",
+    "female": "جدّدي الرخصة",
+    "neutral": "تجديد الرخصة"
+  },
+  "renewPassport": {
+    "male": "جدّد جواز السفر",
+    "female": "جدّدي جواز السفر",
+    "neutral": "تجديد جواز السفر"
+  },
+  "renewPermit": {
+    "male": "جدّد التصريح",
+    "female": "جدّدي التصريح",
+    "neutral": "تجديد التصريح"
+  },
+  "requestCertifiedCopy": {
+    "male": "اطلب نسخة معتمدة",
+    "female": "اطلبي نسخة معتمدة",
+    "neutral": "طلب نسخة معتمدة"
+  },
+  "requestClearanceCertificate": {
+    "male": "اطلب شهادة براءة ذمة",
+    "female": "اطلبي شهادة براءة ذمة",
+    "neutral": "طلب شهادة براءة ذمة"
+  },
+  "requestDataCorrection": {
+    "male": "اطلب تصحيح البيانات",
+    "female": "اطلبي تصحيح البيانات",
+    "neutral": "طلب تصحيح البيانات"
+  },
+  "requestExemption": {
+    "male": "قدّم طلب إعفاء",
+    "female": "قدّمي طلب إعفاء",
+    "neutral": "تقديم طلب إعفاء"
+  },
+  "requestFamilyRecord": {
+    "male": "اطلب القيد العائلي",
+    "female": "اطلبي القيد العائلي",
+    "neutral": "طلب القيد العائلي"
+  },
+  "requestForwarded": {
+    "male": "تمت إحالة طلبكَ",
+    "female": "تمت إحالة طلبكِ"
+  },
+  "requestOfficialCertificate": {
+    "male": "اطلب شهادة رسمية",
+    "female": "اطلبي شهادة رسمية",
+    "neutral": "طلب شهادة رسمية"
+  },
+  "rescheduleAppointment": {
+    "male": "أعد جدولة الموعد",
+    "female": "أعيدي جدولة الموعد",
+    "neutral": "إعادة جدولة الموعد"
+  },
+  "residencyExpired": {
+    "male": "انتهت صلاحية إقامتكَ",
+    "female": "انتهت صلاحية إقامتكِ"
+  },
+  "residencyRenewed": {
+    "male": "تم تجديد إقامتكَ",
+    "female": "تم تجديد إقامتكِ"
+  },
+  "residentId": {
+    "neutral": "رقم الإقامة"
+  },
+  "reviewRequirements": {
+    "male": "راجع شروط الخدمة",
+    "female": "راجعي شروط الخدمة",
+    "neutral": "مراجعة شروط الخدمة"
+  },
+  "revokeDelegation": {
+    "male": "ألغِ التفويض",
+    "female": "ألغي التفويض",
+    "neutral": "إلغاء التفويض"
+  },
+  "scheduleHearing": {
+    "male": "حدّد موعد الجلسة",
+    "female": "حدّدي موعد الجلسة",
+    "neutral": "تحديد موعد الجلسة"
+  },
+  "scheduleInspectionVisit": {
+    "male": "حدّد موعد التفتيش",
+    "female": "حدّدي موعد التفتيش",
+    "neutral": "تحديد موعد التفتيش"
+  },
+  "selectService": {
+    "male": "اختر الخدمة",
+    "female": "اختاري الخدمة",
+    "neutral": "اختيار الخدمة"
+  },
+  "serviceRequestClosed": {
+    "male": "أُغلق طلبكَ",
+    "female": "أُغلق طلبكِ"
+  },
+  "serviceSuspended": {
+    "neutral": "الخدمة معلّقة حالياً"
+  },
+  "serviceUnavailable": {
+    "neutral": "الخدمة غير متاحة حالياً"
+  },
+  "statusUpdated": {
+    "male": "تم تحديث حالة طلبكَ",
+    "female": "تم تحديث حالة طلبكِ"
+  },
+  "submitApplication": {
+    "male": "قدّم الطلب",
+    "female": "قدّمي الطلب",
+    "neutral": "تقديم الطلب"
+  },
+  "submitGrievance": {
+    "male": "قدّم شكوى رسمية",
+    "female": "قدّمي شكوى رسمية",
+    "neutral": "تقديم شكوى رسمية"
+  },
+  "submitObjection": {
+    "male": "قدّم اعتراضاً",
+    "female": "قدّمي اعتراضاً",
+    "neutral": "تقديم اعتراض"
+  },
+  "supportingDocuments": {
+    "neutral": "المستندات الداعمة"
+  },
+  "trackTransaction": {
+    "male": "تتبّع معاملتكَ",
+    "female": "تتبّعي معاملتكِ",
+    "neutral": "تتبّع المعاملة"
+  },
+  "transactionCompleted": {
+    "male": "اكتملت معاملتكَ",
+    "female": "اكتملت معاملتكِ"
+  },
+  "transactionFailed": {
+    "neutral": "تعذّر إتمام المعاملة"
+  },
+  "transactionNumber": {
+    "neutral": "رقم المعاملة"
+  },
+  "transactionReceipt": {
+    "neutral": "إيصال المعاملة"
+  },
+  "unreadNotification": {
+    "neutral": "إشعار غير مقروء"
+  },
+  "updateNationalAddress": {
+    "male": "حدّث عنوانكَ الوطني",
+    "female": "حدّثي عنوانكِ الوطني",
+    "neutral": "تحديث العنوان الوطني"
+  },
+  "validIdRequired": {
+    "neutral": "مطلوب هوية سارية"
+  },
+  "verifyDigitalIdentity": {
+    "male": "تحقّق من هويتكَ الرقمية",
+    "female": "تحقّقي من هويتكِ الرقمية",
+    "neutral": "التحقّق من الهوية الرقمية"
+  },
+  "viewOfficialNotice": {
+    "male": "اطّلع على الإشعار الرسمي",
+    "female": "اطّلعي على الإشعار الرسمي",
+    "neutral": "الاطّلاع على الإشعار الرسمي"
+  },
+  "violationRecorded": {
+    "male": "سُجّلت مخالفة بحقّكَ",
+    "female": "سُجّلت مخالفة بحقّكِ"
+  },
+  "visaExpired": {
+    "male": "انتهت صلاحية تأشيرتكَ",
+    "female": "انتهت صلاحية تأشيرتكِ"
+  },
+  "visaIssued": {
+    "male": "تم إصدار تأشيرتكَ",
+    "female": "تم إصدار تأشيرتكِ"
+  },
+  "visitOffice": {
+    "male": "راجع المكتب المختصّ",
+    "female": "راجعي المكتب المختصّ",
+    "neutral": "مراجعة المكتب المختصّ"
+  },
+  "withdrawApplication": {
+    "male": "اسحب الطلب",
+    "female": "اسحبي الطلب",
+    "neutral": "سحب الطلب"
+  },
+  "workingHours": {
+    "neutral": "ساعات العمل الرسمية"
+  },
+  "youAttendedAppointment": {
+    "male": "لقد حضرتَ الموعد",
+    "female": "لقد حضرتِ الموعد"
+  },
+  "youBookedAppointment": {
+    "male": "لقد حجزتَ موعدكَ",
+    "female": "لقد حجزتِ موعدكِ"
+  },
+  "youCancelledAppointment": {
+    "male": "لقد ألغيتَ موعدكَ",
+    "female": "لقد ألغيتِ موعدكِ"
+  },
+  "youCompletedTransaction": {
+    "male": "لقد أتممتَ المعاملة",
+    "female": "لقد أتممتِ المعاملة"
+  },
+  "youReceivedDocument": {
+    "male": "لقد استلمتَ الوثيقة",
+    "female": "لقد استلمتِ الوثيقة"
+  },
+  "youRenewedLicense": {
+    "male": "لقد جدّدتَ الرخصة",
+    "female": "لقد جدّدتِ الرخصة"
+  },
+  "youRescheduledAppointment": {
+    "male": "لقد أعدتَ جدولة الموعد",
+    "female": "لقد أعدتِ جدولة الموعد"
+  },
+  "youSubmittedApplication": {
+    "male": "لقد قدّمتَ الطلب",
+    "female": "لقد قدّمتِ الطلب"
+  }
+}

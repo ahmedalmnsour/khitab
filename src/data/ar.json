@@ -19,6 +19,11 @@
     "male": "ألغِ",
     "female": "ألغي"
   },
+  "choosePaymentMethod": {
+    "male": "اختر طريقة الدفع",
+    "female": "اختاري طريقة الدفع",
+    "neutral": "اختيار طريقة الدفع"
+  },
   "close": {
     "male": "أغلق",
     "female": "أغلقي"
@@ -55,6 +60,11 @@
     "male": "صفِّ",
     "female": "صفّي"
   },
+  "join": {
+    "male": "انضمّ",
+    "female": "انضمّي",
+    "neutral": "الانضمام"
+  },
   "login": {
     "male": "سجّل الدخول",
     "female": "سجّلي الدخول"
@@ -66,6 +76,22 @@
   "open": {
     "male": "افتح",
     "female": "افتحي"
+  },
+  "payNow": {
+    "male": "ادفع الآن",
+    "female": "ادفعي الآن",
+    "neutral": "الدفع الآن"
+  },
+  "paymentFailed": {
+    "neutral": "فشلت عملية الدفع"
+  },
+  "paymentSuccessful": {
+    "neutral": "تم الدفع بنجاح"
+  },
+  "rate": {
+    "male": "قيّم",
+    "female": "قيّمي",
+    "neutral": "تقييم"
   },
   "register": {
     "male": "أنشئ حساباً",
@@ -83,6 +109,11 @@
     "male": "أزل",
     "female": "أزيلي"
   },
+  "report": {
+    "male": "أبلِغ",
+    "female": "أبلِغي",
+    "neutral": "الإبلاغ"
+  },
   "save": {
     "male": "احفظ",
     "female": "احفظي"
@@ -95,6 +126,11 @@
     "male": "ابحث",
     "female": "ابحثي"
   },
+  "select": {
+    "male": "اختر",
+    "female": "اختاري",
+    "neutral": "اختيار"
+  },
   "send": {
     "male": "أرسل",
     "female": "أرسلي"
@@ -103,9 +139,18 @@
     "male": "شارك",
     "female": "شاركي"
   },
+  "start": {
+    "male": "ابدأ",
+    "female": "ابدئي",
+    "neutral": "بدء"
+  },
   "subscribe": {
     "male": "اشترك",
     "female": "اشتركي"
+  },
+  "track": {
+    "male": "تتبّع",
+    "female": "تتبّعي"
   },
   "tryLater": {
     "neutral": "يُرجى المحاولة لاحقاً"
@@ -121,6 +166,11 @@
   "upload": {
     "male": "ارفع",
     "female": "ارفعي"
+  },
+  "view": {
+    "male": "اعرض",
+    "female": "اعرضي",
+    "neutral": "عرض"
   },
   "wantContinue": {
     "male": "هل تريد المتابعة؟",

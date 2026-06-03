@@ -1,0 +1,546 @@
+{
+  "acceptJobOffer": {
+    "male": "اقبل عرض العمل",
+    "female": "اقبلي عرض العمل",
+    "neutral": "قبول عرض العمل"
+  },
+  "addPortfolioSample": {
+    "male": "أضف نموذجاً من أعمالكَ",
+    "female": "أضيفي نموذجاً من أعمالكِ",
+    "neutral": "إضافة نموذج أعمال"
+  },
+  "addProfessionalCertificate": {
+    "male": "أضف شهادتكَ المهنية",
+    "female": "أضيفي شهادتكِ المهنية",
+    "neutral": "إضافة شهادة مهنية"
+  },
+  "addProfessionalSkill": {
+    "male": "أضف مهارة مهنية",
+    "female": "أضيفي مهارة مهنية",
+    "neutral": "إضافة مهارة مهنية"
+  },
+  "addReferences": {
+    "male": "أضف معرّفين مهنيّين",
+    "female": "أضيفي معرّفين مهنيّين",
+    "neutral": "إضافة معرّفين مهنيّين"
+  },
+  "addVolunteerExperience": {
+    "male": "أضف خبرة تطوّعية",
+    "female": "أضيفي خبرة تطوّعية",
+    "neutral": "إضافة خبرة تطوّعية"
+  },
+  "addWorkExperience": {
+    "male": "أضف خبرة عمل",
+    "female": "أضيفي خبرة عمل",
+    "neutral": "إضافة خبرة عمل"
+  },
+  "applyToJob": {
+    "male": "تقدّم للوظيفة",
+    "female": "تقدّمي للوظيفة",
+    "neutral": "التقدّم للوظيفة"
+  },
+  "applyWithProfile": {
+    "male": "تقدّم بملفكَ المهنيّ",
+    "female": "تقدّمي بملفكِ المهنيّ",
+    "neutral": "التقدّم بالملف المهنيّ"
+  },
+  "applyWithSavedResume": {
+    "male": "تقدّم بسيرتكَ المحفوظة",
+    "female": "تقدّمي بسيرتكِ المحفوظة",
+    "neutral": "التقدّم بالسيرة المحفوظة"
+  },
+  "attachCoverLetter": {
+    "male": "أرفق خطاب التقديم",
+    "female": "أرفقي خطاب التقديم",
+    "neutral": "إرفاق خطاب التقديم"
+  },
+  "backgroundCheckPassed": {
+    "male": "اجتزتَ الفحص الأمنيّ",
+    "female": "اجتزتِ الفحص الأمنيّ"
+  },
+  "boostYourProfile": {
+    "male": "عزّز ملفكَ المهنيّ",
+    "female": "عزّزي ملفكِ المهنيّ",
+    "neutral": "تعزيز الملفّ المهنيّ"
+  },
+  "buildResume": {
+    "male": "ابنِ سيرتكَ الذاتية",
+    "female": "ابني سيرتكِ الذاتية",
+    "neutral": "بناء السيرة الذاتية"
+  },
+  "certificationsAndLicenses": {
+    "male": "رخصكَ وشهاداتكَ المهنيّة",
+    "female": "رخصكِ وشهاداتكِ المهنيّة"
+  },
+  "completeProfessionalProfile": {
+    "male": "أكمل ملفكَ المهنيّ",
+    "female": "أكملي ملفكِ المهنيّ",
+    "neutral": "إكمال الملف المهنيّ"
+  },
+  "contractType": {
+    "neutral": "نوع العقد"
+  },
+  "coverLetterAttached": {
+    "neutral": "خطاب التقديم مُرفَق"
+  },
+  "coverLetterRequired": {
+    "male": "خطاب التقديم مطلوب لطلبكَ",
+    "female": "خطاب التقديم مطلوب لطلبكِ"
+  },
+  "createJobAlert": {
+    "male": "أنشئ تنبيه وظائف",
+    "female": "أنشئي تنبيه وظائف",
+    "neutral": "إنشاء تنبيه وظائف"
+  },
+  "currentEmployer": {
+    "male": "جهة عملكَ الحالية",
+    "female": "جهة عملكِ الحالية"
+  },
+  "declineJobOffer": {
+    "male": "ارفض عرض العمل",
+    "female": "ارفضي عرض العمل",
+    "neutral": "رفض عرض العمل"
+  },
+  "downloadResume": {
+    "male": "حمّل سيرتكَ الذاتية",
+    "female": "حمّلي سيرتكِ الذاتية",
+    "neutral": "تحميل السيرة الذاتية"
+  },
+  "employerInvitedYouToApply": {
+    "male": "دعاكَ صاحب العمل للتقدّم",
+    "female": "دعاكِ صاحب العمل للتقدّم"
+  },
+  "employmentHistory": {
+    "male": "سجلّكَ الوظيفيّ",
+    "female": "سجلّكِ الوظيفيّ"
+  },
+  "expectedSalary": {
+    "male": "راتبكَ المتوقّع",
+    "female": "راتبكِ المتوقّع"
+  },
+  "experienceMatchesJob": {
+    "male": "خبرتكَ تناسب الوظيفة",
+    "female": "خبرتكِ تناسب الوظيفة"
+  },
+  "freelanceProjects": {
+    "neutral": "مشاريع عمل حرّ"
+  },
+  "gapInEmployment": {
+    "male": "فجوة في سجلّكَ الوظيفيّ",
+    "female": "فجوة في سجلّكِ الوظيفيّ"
+  },
+  "hideProfileFromEmployers": {
+    "male": "أخفِ ملفكَ عن أصحاب العمل",
+    "female": "أخفي ملفكِ عن أصحاب العمل",
+    "neutral": "إخفاء الملف عن أصحاب العمل"
+  },
+  "highlightSkill": {
+    "male": "أبرز هذه المهارة في ملفكَ",
+    "female": "أبرزي هذه المهارة في ملفكِ",
+    "neutral": "إبراز المهارة"
+  },
+  "inPersonInterview": {
+    "neutral": "المقابلة حضورية"
+  },
+  "interviewCompleted": {
+    "neutral": "تمّت المقابلة"
+  },
+  "interviewFeedbackAvailable": {
+    "male": "ملاحظات المقابلة متاحة لكَ",
+    "female": "ملاحظات المقابلة متاحة لكِ"
+  },
+  "interviewInvitationExpired": {
+    "neutral": "انتهت صلاحية دعوة المقابلة"
+  },
+  "interviewPassed": {
+    "male": "اجتزتَ المقابلة",
+    "female": "اجتزتِ المقابلة"
+  },
+  "interviewResultPending": {
+    "neutral": "نتيجة المقابلة قيد الانتظار"
+  },
+  "interviewTypeBehavioral": {
+    "neutral": "مقابلة سلوكيّة"
+  },
+  "interviewTypeTechnical": {
+    "neutral": "مقابلة تقنيّة"
+  },
+  "invitedToInterview": {
+    "male": "دُعيتَ إلى مقابلة",
+    "female": "دُعيتِ إلى مقابلة"
+  },
+  "jobAlertCreated": {
+    "neutral": "تم إنشاء تنبيه الوظائف"
+  },
+  "jobAlertMatchesFound": {
+    "male": "وظائف جديدة تطابق تنبيهكَ",
+    "female": "وظائف جديدة تطابق تنبيهكِ"
+  },
+  "jobAlertPaused": {
+    "neutral": "تنبيه الوظائف متوقف مؤقتاً"
+  },
+  "jobAlertUpdated": {
+    "neutral": "تم تحديث تنبيه الوظائف"
+  },
+  "jobAlreadySaved": {
+    "neutral": "الوظيفة محفوظة بالفعل"
+  },
+  "jobApplicationDeadlineApproaching": {
+    "neutral": "يقترب آخر موعد للتقديم"
+  },
+  "jobApplicationDeadlinePassed": {
+    "neutral": "انتهى موعد التقديم للوظيفة"
+  },
+  "jobApplicationMatched": {
+    "male": "طلبكَ يطابق متطلّبات الوظيفة",
+    "female": "طلبكِ يطابق متطلّبات الوظيفة"
+  },
+  "jobApplicationNotSelected": {
+    "male": "لم يقع الاختيار عليكَ",
+    "female": "لم يقع الاختيار عليكِ"
+  },
+  "jobApplicationShortlisted": {
+    "male": "طلبكَ في القائمة المختصرة",
+    "female": "طلبكِ في القائمة المختصرة"
+  },
+  "jobApplicationViewedByEmployer": {
+    "male": "اطّلع صاحب العمل على طلبِكَ",
+    "female": "اطّلع صاحب العمل على طلبِكِ"
+  },
+  "jobAppliedDate": {
+    "neutral": "تاريخ التقدّم للوظيفة"
+  },
+  "jobFullTime": {
+    "neutral": "وظيفة بدوام كامل"
+  },
+  "jobHybridAvailable": {
+    "neutral": "الوظيفة بنظام هجين"
+  },
+  "jobLocation": {
+    "neutral": "موقع الوظيفة"
+  },
+  "jobMatchesProfile": {
+    "male": "وظيفة تطابق ملفكَ المهنيّ",
+    "female": "وظيفة تطابق ملفكِ المهنيّ"
+  },
+  "jobNoLongerAvailable": {
+    "neutral": "الوظيفة لم تعد متاحة"
+  },
+  "jobOffer": {
+    "neutral": "عرض العمل"
+  },
+  "jobOfferDeadline": {
+    "neutral": "آخر موعد للرد على العرض"
+  },
+  "jobOfferDetails": {
+    "neutral": "تفاصيل العرض"
+  },
+  "jobOfferExpired": {
+    "neutral": "انتهت صلاحية العرض"
+  },
+  "jobOfferPendingYourResponse": {
+    "male": "العرض بانتظار ردِّكَ",
+    "female": "العرض بانتظار ردِّكِ"
+  },
+  "jobOfferReceived": {
+    "male": "تلقّيتَ عرض عمل",
+    "female": "تلقّيتِ عرض عمل"
+  },
+  "jobOfferSalaryLabel": {
+    "neutral": "الراتب المعروض"
+  },
+  "jobOfferStartDateLabel": {
+    "neutral": "تاريخ بدء العمل"
+  },
+  "jobPartTime": {
+    "neutral": "وظيفة بدوام جزئي"
+  },
+  "jobRemoteAvailable": {
+    "neutral": "الوظيفة عن بُعد"
+  },
+  "jobsRecommendedForYou": {
+    "male": "وظائف مقترحة لكَ",
+    "female": "وظائف مقترحة لكِ"
+  },
+  "joinInterviewRoom": {
+    "male": "انضمّ إلى غرفة المقابلة",
+    "female": "انضمّي إلى غرفة المقابلة",
+    "neutral": "الانضمام إلى غرفة المقابلة"
+  },
+  "languageProficiency": {
+    "male": "مستوى إجادتكَ للغة",
+    "female": "مستوى إجادتكِ للغة"
+  },
+  "makeProfileVisibleToEmployers": {
+    "male": "اجعل ملفكَ ظاهراً لأصحاب العمل",
+    "female": "اجعلي ملفكِ ظاهراً لأصحاب العمل",
+    "neutral": "إظهار الملف لأصحاب العمل"
+  },
+  "negotiateJobOffer": {
+    "male": "تفاوض على العرض",
+    "female": "تفاوضي على العرض",
+    "neutral": "التفاوض على العرض"
+  },
+  "noMatchingJobs": {
+    "male": "لا توجد وظائف تطابق بحثكَ",
+    "female": "لا توجد وظائف تطابق بحثكِ"
+  },
+  "noticePeriod": {
+    "male": "فترة إشعاركَ",
+    "female": "فترة إشعاركِ"
+  },
+  "offerLetterReady": {
+    "neutral": "خطاب العرض جاهز"
+  },
+  "onboardingStarted": {
+    "male": "بدأت إجراءات تهيئتكَ الوظيفيّة",
+    "female": "بدأت إجراءات تهيئتكِ الوظيفيّة"
+  },
+  "phoneInterview": {
+    "neutral": "المقابلة هاتفية"
+  },
+  "portfolioLink": {
+    "male": "رابط معرض أعمالكَ",
+    "female": "رابط معرض أعمالكِ"
+  },
+  "portfolioMissingForJob": {
+    "male": "نماذج أعمالكَ مطلوبة لهذه الوظيفة",
+    "female": "نماذج أعمالكِ مطلوبة لهذه الوظيفة"
+  },
+  "prepareForInterview": {
+    "male": "استعدّ للمقابلة",
+    "female": "استعدّي للمقابلة",
+    "neutral": "الاستعداد للمقابلة"
+  },
+  "probationPeriod": {
+    "male": "فترة تجربتكَ",
+    "female": "فترة تجربتكِ"
+  },
+  "professionalCertificateExpired": {
+    "male": "شهادتكَ المهنية منتهية الصلاحية",
+    "female": "شهادتكِ المهنية منتهية الصلاحية"
+  },
+  "professionalProfileHiddenFromEmployers": {
+    "male": "ملفكَ المهنيّ مخفيّ عن أصحاب العمل",
+    "female": "ملفكِ المهنيّ مخفيّ عن أصحاب العمل"
+  },
+  "professionalProfileIncomplete": {
+    "male": "ملفكَ المهنيّ غير مكتمل",
+    "female": "ملفكِ المهنيّ غير مكتمل"
+  },
+  "professionalProfileVisibleToEmployers": {
+    "male": "ملفكَ المهنيّ ظاهر لأصحاب العمل",
+    "female": "ملفكِ المهنيّ ظاهر لأصحاب العمل"
+  },
+  "professionalSkillMissingForJob": {
+    "male": "تنقصكَ مهارة مهنية لهذه الوظيفة",
+    "female": "تنقصكِ مهارة مهنية لهذه الوظيفة"
+  },
+  "profileStrength": {
+    "male": "قوة ملفكَ المهنيّ",
+    "female": "قوة ملفكِ المهنيّ"
+  },
+  "profileViewedByEmployer": {
+    "male": "اطّلع صاحب العمل على ملفكَ المهنيّ",
+    "female": "اطّلع صاحب العمل على ملفكِ المهنيّ"
+  },
+  "recommendationReceived": {
+    "male": "وصلتكَ توصية جديدة",
+    "female": "وصلتكِ توصية جديدة"
+  },
+  "recruiterContactedYou": {
+    "male": "تواصل معكَ مسؤول التوظيف",
+    "female": "تواصل معكِ مسؤول التوظيف"
+  },
+  "referenceCheckStarted": {
+    "male": "بدأ التحقّق من معرّفيكَ المهنيّين",
+    "female": "بدأ التحقّق من معرّفيكِ المهنيّين"
+  },
+  "requestRecommendation": {
+    "male": "اطلب توصية",
+    "female": "اطلبي توصية",
+    "neutral": "طلب توصية"
+  },
+  "resumeAttachedToJob": {
+    "male": "سيرتُكَ الذاتية مرفقة بالطلب",
+    "female": "سيرتُكِ الذاتية مرفقة بالطلب"
+  },
+  "resumeComplete": {
+    "male": "اكتملت سيرتكَ الذاتية",
+    "female": "اكتملت سيرتكِ الذاتية"
+  },
+  "resumeDownloadedByEmployer": {
+    "male": "حمّل صاحب العمل سيرتَكَ الذاتية",
+    "female": "حمّل صاحب العمل سيرتَكِ الذاتية"
+  },
+  "resumeFormatNotSupported": {
+    "male": "صيغة سيرتكَ غير مدعومة",
+    "female": "صيغة سيرتكِ غير مدعومة"
+  },
+  "resumeIncomplete": {
+    "male": "سيرتكَ الذاتية غير مكتملة",
+    "female": "سيرتكِ الذاتية غير مكتملة"
+  },
+  "resumeMissingForJob": {
+    "neutral": "هذه الوظيفة تتطلب سيرة ذاتية"
+  },
+  "resumeUploaded": {
+    "male": "سيرتُكَ الذاتية مرفوعة",
+    "female": "سيرتُكِ الذاتية مرفوعة"
+  },
+  "resumeVisibleToEmployers": {
+    "male": "سيرتُكَ الذاتية ظاهرة لأصحاب العمل",
+    "female": "سيرتُكِ الذاتية ظاهرة لأصحاب العمل"
+  },
+  "resumeWithdrawnFromJob": {
+    "male": "أُزيلت سيرتُكَ الذاتية من طلب الوظيفة",
+    "female": "أُزيلت سيرتُكِ الذاتية من طلب الوظيفة"
+  },
+  "salaryNotDisclosed": {
+    "neutral": "الراتب غير معلَن"
+  },
+  "saveJob": {
+    "male": "احفظ الوظيفة",
+    "female": "احفظي الوظيفة",
+    "neutral": "حفظ الوظيفة"
+  },
+  "saveJobSearch": {
+    "male": "احفظ بحث الوظائف",
+    "female": "احفظي بحث الوظائف",
+    "neutral": "حفظ بحث الوظائف"
+  },
+  "searchJobs": {
+    "male": "ابحث عن وظائف",
+    "female": "ابحثي عن وظائف",
+    "neutral": "البحث عن وظائف"
+  },
+  "signOfferLetter": {
+    "male": "وقّع خطاب العرض",
+    "female": "وقّعي خطاب العرض",
+    "neutral": "توقيع خطاب العرض"
+  },
+  "similarJobs": {
+    "neutral": "وظائف مشابهة"
+  },
+  "skillAssessmentAvailable": {
+    "neutral": "اختبار المهارة متاح"
+  },
+  "skillAssessmentFailed": {
+    "male": "لم تجتز اختبار المهارة",
+    "female": "لم تجتازي اختبار المهارة"
+  },
+  "skillAssessmentPassed": {
+    "male": "اجتزتَ اختبار المهارة",
+    "female": "اجتزتِ اختبار المهارة"
+  },
+  "skillEndorsed": {
+    "male": "أيّد أحدُهم مهارتكَ",
+    "female": "أيّد أحدُهم مهارتكِ"
+  },
+  "skillLevel": {
+    "neutral": "مستوى المهارة"
+  },
+  "skillVerified": {
+    "male": "تم التحقّق من مهارتكَ",
+    "female": "تم التحقّق من مهارتكِ"
+  },
+  "skillsMatchJob": {
+    "male": "مهاراتكَ تطابق الوظيفة",
+    "female": "مهاراتكِ تطابق الوظيفة"
+  },
+  "takeSkillAssessment": {
+    "male": "ابدأ اختبار المهارة",
+    "female": "ابدئي اختبار المهارة",
+    "neutral": "بدء اختبار المهارة"
+  },
+  "unsaveJob": {
+    "male": "ألغِ حفظ الوظيفة",
+    "female": "ألغي حفظ الوظيفة",
+    "neutral": "إلغاء حفظ الوظيفة"
+  },
+  "updateCareerPreferences": {
+    "male": "حدّث تفضيلاتكَ المهنية",
+    "female": "حدّثي تفضيلاتكِ المهنية",
+    "neutral": "تحديث التفضيلات المهنية"
+  },
+  "updateProfessionalProfile": {
+    "male": "حدّث ملفكَ المهنيّ",
+    "female": "حدّثي ملفكِ المهنيّ",
+    "neutral": "تحديث الملف المهنيّ"
+  },
+  "updateProfessionalSummary": {
+    "male": "حدّث نبذتكَ المهنية",
+    "female": "حدّثي نبذتكِ المهنية",
+    "neutral": "تحديث النبذة المهنية"
+  },
+  "updateResume": {
+    "male": "حدّث سيرتكَ الذاتية",
+    "female": "حدّثي سيرتكِ الذاتية",
+    "neutral": "تحديث السيرة الذاتية"
+  },
+  "updateWorkExperience": {
+    "male": "حدّث خبرتكَ العملية",
+    "female": "حدّثي خبرتكِ العملية",
+    "neutral": "تحديث الخبرة العملية"
+  },
+  "uploadResume": {
+    "male": "ارفع سيرتكَ الذاتية",
+    "female": "ارفعي سيرتكِ الذاتية",
+    "neutral": "رفع السيرة الذاتية"
+  },
+  "videoInterview": {
+    "neutral": "المقابلة عبر الفيديو"
+  },
+  "visaSponsorshipRequired": {
+    "male": "هل تطلب رعاية تأشيرة؟",
+    "female": "هل تطلبين رعاية تأشيرة؟"
+  },
+  "willingToRelocate": {
+    "male": "هل أنتَ مستعدّ للانتقال للعمل؟",
+    "female": "هل أنتِ مستعدّة للانتقال للعمل؟"
+  },
+  "withdrawJobApplication": {
+    "male": "اسحب طلبكَ للوظيفة",
+    "female": "اسحبي طلبكِ للوظيفة",
+    "neutral": "سحب طلب الوظيفة"
+  },
+  "workAuthorization": {
+    "male": "تصريح عملكَ",
+    "female": "تصريح عملكِ"
+  },
+  "yearsOfExperience": {
+    "neutral": "سنوات الخبرة"
+  },
+  "youAcceptedJobOffer": {
+    "male": "لقد قبلتَ عرض العمل",
+    "female": "لقد قبلتِ عرض العمل"
+  },
+  "youAppliedToJob": {
+    "male": "لقد تقدّمتَ للوظيفة",
+    "female": "لقد تقدّمتِ للوظيفة"
+  },
+  "youDeclinedJobOffer": {
+    "male": "لقد رفضتَ عرض العمل",
+    "female": "لقد رفضتِ عرض العمل"
+  },
+  "youHaveAppliedBefore": {
+    "male": "سبق أن تقدّمتَ لهذه الوظيفة",
+    "female": "سبق أن تقدّمتِ لهذه الوظيفة"
+  },
+  "youNegotiatedJobOffer": {
+    "male": "لقد تفاوضتَ على العرض",
+    "female": "لقد تفاوضتِ على العرض"
+  },
+  "youRequestedRecommendation": {
+    "male": "لقد طلبتَ توصية",
+    "female": "لقد طلبتِ توصية"
+  },
+  "youViewedJob": {
+    "male": "لقد اطّلعتَ على الوظيفة",
+    "female": "لقد اطّلعتِ على الوظيفة"
+  },
+  "youWithdrewJobApplication": {
+    "male": "لقد سحبتَ طلبكَ للوظيفة",
+    "female": "لقد سحبتِ طلبكِ للوظيفة"
+  }
+}

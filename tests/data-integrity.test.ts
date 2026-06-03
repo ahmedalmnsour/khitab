@@ -2,8 +2,9 @@ import { describe, it, expect } from 'vitest';
 import { phrases } from '../src/data/index';
 import { isNeutralOnly, type Phrase } from '../src/types';
 
-// فحوصات سلامة القاموس (القسم 5 من الخطة v6).
-// التكرار في المفاتيح يُفرض في scripts/validate-json.js (لأن JSON.parse يطويه)،
+// فحوصات سلامة القاموس المدموج (نواة ar.json + عشر فئات — القسم 5 من الخطة v6).
+// phrases هنا هو الناتج المدموج من src/data/index.ts، فالفحص يغطّي كل الفئات معاً.
+// التكرار (داخل ملف وعبر الملفات) يُفرض في scripts/validate-json.js (لأن JSON.parse يطويه)،
 // فهنا نعتمد على الكائن المُحلَّل بأمان.
 
 const entries = Object.entries(phrases) as [string, Phrase][];
@@ -12,14 +13,14 @@ const isNonEmptyString = (v: unknown): v is string =>
   typeof v === 'string' && v.trim() !== '';
 
 // it.each على مصفوفة فارغة يُعدّ فشلاً في Vitest 4 ("no test found").
-// القاموس قد يكون {} مؤقتاً (قبل ملء الـ33 عبارة)، فنحرس كل each بحالة placeholder
-// تمر، حتى تبقى بوابة الجودة خضراء على ar.json الفارغ.
+// لو كان القاموس فارغاً {} لأي سبب، فنحرس كل each بحالة placeholder تمرّ،
+// حتى تبقى بوابة الجودة خضراء بدل أن تفشل بـ "no test found".
 const orEmpty = (
   rows: [string, Phrase][],
 ): [string, Phrase | undefined][] =>
   rows.length > 0 ? rows : [['(no phrases yet)', undefined]];
 
-describe('data integrity: ar.json', () => {
+describe('data integrity: merged dictionary', () => {
   it('الجذر كائن صالح', () => {
     expect(phrases).toBeTypeOf('object');
     expect(phrases).not.toBeNull();

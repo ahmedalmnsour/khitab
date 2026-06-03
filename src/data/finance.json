@@ -1,0 +1,748 @@
+{
+  "accountFrozen": {
+    "neutral": "الحساب مجمّد"
+  },
+  "accountLimitExceeded": {
+    "neutral": "تم تجاوز حدّ الحساب"
+  },
+  "accountNumber": {
+    "neutral": "رقم الحساب"
+  },
+  "accountStatement": {
+    "neutral": "كشف الحساب"
+  },
+  "accountSummary": {
+    "male": "ملخّص حسابكَ",
+    "female": "ملخّص حسابكِ"
+  },
+  "activateCard": {
+    "male": "فعّل البطاقة",
+    "female": "فعّلي البطاقة",
+    "neutral": "تفعيل البطاقة"
+  },
+  "addBeneficiary": {
+    "male": "أضف مستفيداً",
+    "female": "أضيفي مستفيداً",
+    "neutral": "إضافة مستفيد"
+  },
+  "addBill": {
+    "male": "أضف فاتورة",
+    "female": "أضيفي فاتورة",
+    "neutral": "إضافة فاتورة"
+  },
+  "addToSavings": {
+    "male": "أضف إلى مدّخراتكَ",
+    "female": "أضيفي إلى مدّخراتكِ",
+    "neutral": "إضافة إلى المدّخرات"
+  },
+  "amountDebited": {
+    "male": "تم خصم مبلغ من حسابكَ",
+    "female": "تم خصم مبلغ من حسابكِ"
+  },
+  "amountDeposited": {
+    "male": "تم إيداع مبلغ في حسابكَ",
+    "female": "تم إيداع مبلغ في حسابكِ"
+  },
+  "amountDisbursed": {
+    "neutral": "صُرف المبلغ"
+  },
+  "amountExceedsLimit": {
+    "neutral": "المبلغ يتجاوز الحدّ المسموح به"
+  },
+  "atmWithdrawal": {
+    "neutral": "سحب عبر الصرّاف الآلي"
+  },
+  "autoPayEnabled": {
+    "neutral": "تم تفعيل السداد التلقائي"
+  },
+  "availableBalance": {
+    "neutral": "الرصيد المتاح"
+  },
+  "balanceAfterTransaction": {
+    "neutral": "الرصيد بعد المعاملة"
+  },
+  "balanceUpdated": {
+    "male": "تم تحديث رصيدكَ",
+    "female": "تم تحديث رصيدكِ"
+  },
+  "beneficiaryAdded": {
+    "neutral": "تمت إضافة المستفيد"
+  },
+  "beneficiaryList": {
+    "neutral": "قائمة المستفيدين"
+  },
+  "beneficiaryVerified": {
+    "neutral": "تم التحقّق من المستفيد"
+  },
+  "billDueSoon": {
+    "neutral": "فاتورة مستحقة قريباً"
+  },
+  "billPaid": {
+    "male": "سدّدتَ الفاتورة",
+    "female": "سدّدتِ الفاتورة"
+  },
+  "biometricLogin": {
+    "neutral": "تسجيل الدخول بالبصمة"
+  },
+  "blockCard": {
+    "male": "احظر البطاقة",
+    "female": "احظري البطاقة",
+    "neutral": "حظر البطاقة"
+  },
+  "calculateLoan": {
+    "male": "احسب قرضكَ",
+    "female": "احسبي قرضكِ",
+    "neutral": "حساب القرض"
+  },
+  "cancelRecurringTransfer": {
+    "male": "ألغِ التحويل الدوري",
+    "female": "ألغي التحويل الدوري",
+    "neutral": "إلغاء التحويل الدوري"
+  },
+  "cardActivated": {
+    "male": "تم تفعيل بطاقتكَ",
+    "female": "تم تفعيل بطاقتكِ"
+  },
+  "cardBlocked": {
+    "neutral": "البطاقة محظورة"
+  },
+  "cardExpired": {
+    "neutral": "انتهت صلاحية البطاقة"
+  },
+  "cardExpiryDate": {
+    "neutral": "تاريخ انتهاء البطاقة"
+  },
+  "cardFrozen": {
+    "neutral": "تم تجميد البطاقة"
+  },
+  "cardLimitExceeded": {
+    "neutral": "تم تجاوز حدّ البطاقة"
+  },
+  "cardNumber": {
+    "neutral": "رقم البطاقة"
+  },
+  "cardPin": {
+    "neutral": "الرقم السرّي للبطاقة"
+  },
+  "cardReady": {
+    "male": "بطاقتكَ جاهزة",
+    "female": "بطاقتكِ جاهزة"
+  },
+  "cardReissued": {
+    "neutral": "تمت إعادة إصدار البطاقة"
+  },
+  "cardSecurityCode": {
+    "neutral": "رمز أمان البطاقة"
+  },
+  "cashDeposit": {
+    "neutral": "إيداع نقدي"
+  },
+  "cashWithdrawal": {
+    "neutral": "سحب نقدي"
+  },
+  "changeCardPin": {
+    "male": "غيّر الرقم السرّي للبطاقة",
+    "female": "غيّري الرقم السرّي للبطاقة",
+    "neutral": "تغيير الرقم السرّي للبطاقة"
+  },
+  "confirmBeneficiary": {
+    "male": "أكّد المستفيد",
+    "female": "أكّدي المستفيد",
+    "neutral": "تأكيد المستفيد"
+  },
+  "confirmDeposit": {
+    "male": "أكّد الإيداع",
+    "female": "أكّدي الإيداع",
+    "neutral": "تأكيد الإيداع"
+  },
+  "confirmInstallmentPlan": {
+    "male": "أكّد خطة التقسيط",
+    "female": "أكّدي خطة التقسيط",
+    "neutral": "تأكيد خطة التقسيط"
+  },
+  "confirmTransfer": {
+    "male": "أكّد التحويل",
+    "female": "أكّدي التحويل",
+    "neutral": "تأكيد التحويل"
+  },
+  "confirmWithBiometrics": {
+    "male": "أكّد بالبصمة",
+    "female": "أكّدي بالبصمة",
+    "neutral": "التأكيد بالبصمة"
+  },
+  "createInstallmentPlan": {
+    "male": "أنشئ خطة تقسيط",
+    "female": "أنشئي خطة تقسيط",
+    "neutral": "إنشاء خطة تقسيط"
+  },
+  "createSavingsGoal": {
+    "male": "أنشئ هدف ادّخار",
+    "female": "أنشئي هدف ادّخار",
+    "neutral": "إنشاء هدف ادّخار"
+  },
+  "creditLimit": {
+    "neutral": "الحدّ الائتماني"
+  },
+  "currentBalance": {
+    "male": "رصيدكَ الحالي",
+    "female": "رصيدكِ الحالي"
+  },
+  "dailyLimitReached": {
+    "neutral": "تم الوصول إلى الحدّ اليومي"
+  },
+  "deleteBeneficiary": {
+    "male": "احذف المستفيد",
+    "female": "احذفي المستفيد",
+    "neutral": "حذف المستفيد"
+  },
+  "deleteGoal": {
+    "male": "احذف هدفكَ",
+    "female": "احذفي هدفكِ",
+    "neutral": "حذف الهدف"
+  },
+  "depositFailed": {
+    "neutral": "تعذّر الإيداع"
+  },
+  "depositLimit": {
+    "neutral": "حدّ الإيداع"
+  },
+  "depositMoney": {
+    "male": "أودِع مبلغاً",
+    "female": "أودِعي مبلغاً",
+    "neutral": "إيداع مبلغ"
+  },
+  "depositSuccessful": {
+    "male": "أودعتَ المبلغ بنجاح",
+    "female": "أودعتِ المبلغ بنجاح"
+  },
+  "directDebit": {
+    "neutral": "خصم مباشر"
+  },
+  "disableAutoDebit": {
+    "male": "أوقف السداد التلقائي",
+    "female": "أوقفي السداد التلقائي",
+    "neutral": "إيقاف السداد التلقائي"
+  },
+  "downloadStatement": {
+    "male": "حمّل كشف حسابكَ",
+    "female": "حمّلي كشف حسابكِ",
+    "neutral": "تحميل كشف الحساب"
+  },
+  "earlySettlement": {
+    "neutral": "السداد المبكّر"
+  },
+  "earlySettlementFee": {
+    "neutral": "رسوم السداد المبكّر"
+  },
+  "editBeneficiary": {
+    "male": "عدّل بيانات المستفيد",
+    "female": "عدّلي بيانات المستفيد",
+    "neutral": "تعديل بيانات المستفيد"
+  },
+  "enterCardPin": {
+    "male": "أدخل الرقم السرّي للبطاقة",
+    "female": "أدخلي الرقم السرّي للبطاقة",
+    "neutral": "إدخال الرقم السرّي للبطاقة"
+  },
+  "enterTransactionPassword": {
+    "male": "أدخل كلمة السرّ للعمليات",
+    "female": "أدخلي كلمة السرّ للعمليات",
+    "neutral": "إدخال كلمة السرّ للعمليات"
+  },
+  "enterVerificationCode": {
+    "male": "أدخل رمز التحقّق",
+    "female": "أدخلي رمز التحقّق",
+    "neutral": "إدخال رمز التحقّق"
+  },
+  "exceededWithdrawalLimit": {
+    "male": "تجاوزتَ حدّ السحب",
+    "female": "تجاوزتِ حدّ السحب"
+  },
+  "filterTransactions": {
+    "male": "صفِّ معاملاتكَ",
+    "female": "صفّي معاملاتكِ",
+    "neutral": "تصفية المعاملات"
+  },
+  "freezeAccount": {
+    "male": "جمّد حسابكَ",
+    "female": "جمّدي حسابكِ",
+    "neutral": "تجميد الحساب"
+  },
+  "freezeCard": {
+    "male": "جمّد البطاقة",
+    "female": "جمّدي البطاقة",
+    "neutral": "تجميد البطاقة"
+  },
+  "goalProgress": {
+    "male": "تقدّم هدف ادّخاركَ",
+    "female": "تقدّم هدف ادّخاركِ"
+  },
+  "hideCardDetails": {
+    "male": "أخفِ بيانات بطاقتكَ",
+    "female": "أخفي بيانات بطاقتكِ",
+    "neutral": "إخفاء بيانات البطاقة"
+  },
+  "ibanNumber": {
+    "neutral": "رقم الآيبان"
+  },
+  "identityVerified": {
+    "male": "تم تأكيد هويتكَ",
+    "female": "تم تأكيد هويتكِ"
+  },
+  "installmentApproved": {
+    "neutral": "تمت الموافقة على التقسيط"
+  },
+  "installmentCancelled": {
+    "neutral": "تم إلغاء التقسيط"
+  },
+  "installmentDue": {
+    "neutral": "حان موعد القسط"
+  },
+  "installmentDueDate": {
+    "neutral": "تاريخ استحقاق القسط"
+  },
+  "installmentOverdue": {
+    "neutral": "قسط متأخر"
+  },
+  "installmentPaid": {
+    "neutral": "تم سداد القسط"
+  },
+  "installmentPlan": {
+    "neutral": "خطة التقسيط"
+  },
+  "insufficientBalance": {
+    "neutral": "الرصيد غير كافٍ"
+  },
+  "interestRate": {
+    "neutral": "نسبة الفائدة"
+  },
+  "internationalTransfer": {
+    "neutral": "حوالة دولية"
+  },
+  "limitExceeded": {
+    "neutral": "تم تجاوز الحدّ"
+  },
+  "linkBankAccount": {
+    "male": "اربط حسابكَ البنكي",
+    "female": "اربطي حسابكِ البنكي",
+    "neutral": "ربط الحساب البنكي"
+  },
+  "loanAmount": {
+    "neutral": "قيمة القرض"
+  },
+  "loanApplicationSubmitted": {
+    "male": "قدّمتَ طلب القرض",
+    "female": "قدّمتِ طلب القرض"
+  },
+  "loanApproved": {
+    "male": "تمت الموافقة على قرضكَ",
+    "female": "تمت الموافقة على قرضكِ"
+  },
+  "loanBalance": {
+    "neutral": "رصيد القرض المتبقّي"
+  },
+  "loanRejected": {
+    "male": "رُفض طلب قرضكَ",
+    "female": "رُفض طلب قرضكِ"
+  },
+  "localTransfer": {
+    "neutral": "حوالة محلية"
+  },
+  "minimumBalance": {
+    "neutral": "الحدّ الأدنى للرصيد"
+  },
+  "minimumPayment": {
+    "neutral": "الحدّ الأدنى للسداد"
+  },
+  "missingTransactions": {
+    "neutral": "المعاملات غير المسجّلة"
+  },
+  "moneyRequested": {
+    "male": "طلبتَ أموالاً",
+    "female": "طلبتِ أموالاً"
+  },
+  "monthlyInstallment": {
+    "neutral": "القسط الشهري"
+  },
+  "monthlySavings": {
+    "neutral": "الادّخار الشهري"
+  },
+  "monthlyStatement": {
+    "neutral": "كشف الحساب الشهري"
+  },
+  "newDeviceLoginAlert": {
+    "male": "تسجيل دخول جديد إلى حسابكَ من جهاز غير معروف",
+    "female": "تسجيل دخول جديد إلى حسابكِ من جهاز غير معروف"
+  },
+  "newLoginDetected": {
+    "male": "عملية دخول جديدة إلى حسابكَ",
+    "female": "عملية دخول جديدة إلى حسابكِ"
+  },
+  "nextInstallmentDate": {
+    "neutral": "موعد القسط القادم"
+  },
+  "noBeneficiaries": {
+    "neutral": "لا يوجد مستفيدون"
+  },
+  "noTransactions": {
+    "neutral": "لا توجد معاملات"
+  },
+  "openAccount": {
+    "male": "افتح حساباً",
+    "female": "افتحي حساباً",
+    "neutral": "فتح حساب"
+  },
+  "outstandingBalance": {
+    "neutral": "الرصيد المتبقّي"
+  },
+  "overdraftLimit": {
+    "neutral": "حدّ السحب على المكشوف"
+  },
+  "payBill": {
+    "male": "سدّد فاتورتكَ",
+    "female": "سدّدي فاتورتكِ",
+    "neutral": "سداد الفاتورة"
+  },
+  "payInstallment": {
+    "male": "سدّد القسط",
+    "female": "سدّدي القسط",
+    "neutral": "سداد القسط"
+  },
+  "pendingApproval": {
+    "neutral": "في انتظار الموافقة"
+  },
+  "pendingTransaction": {
+    "neutral": "معاملة معلّقة"
+  },
+  "physicalCard": {
+    "neutral": "بطاقة فعلية"
+  },
+  "pinChanged": {
+    "male": "غيّرتَ الرقم السرّي",
+    "female": "غيّرتِ الرقم السرّي"
+  },
+  "pinIncorrect": {
+    "neutral": "الرقم السرّي غير صحيح"
+  },
+  "previousStatement": {
+    "neutral": "كشف حساب سابق"
+  },
+  "printStatement": {
+    "male": "اطبع كشف الحساب",
+    "female": "اطبعي كشف الحساب",
+    "neutral": "طباعة كشف الحساب"
+  },
+  "receiptOfTransfer": {
+    "neutral": "إيصال التحويل"
+  },
+  "recentTransactions": {
+    "neutral": "آخر المعاملات"
+  },
+  "recipientAccountNumber": {
+    "neutral": "رقم حساب المستفيد"
+  },
+  "recurringBillCancelled": {
+    "neutral": "تم إلغاء السداد الدوري للفاتورة"
+  },
+  "recurringBillEnabled": {
+    "neutral": "تم تفعيل السداد الدوري للفاتورة"
+  },
+  "recurringTransfer": {
+    "neutral": "تحويل دوري"
+  },
+  "referralBonus": {
+    "neutral": "مكافأة الإحالة"
+  },
+  "remainingInstallments": {
+    "neutral": "الأقساط المتبقّية"
+  },
+  "remittanceSent": {
+    "neutral": "تم إرسال الحوالة"
+  },
+  "repayLoan": {
+    "male": "سدّد القرض",
+    "female": "سدّدي القرض",
+    "neutral": "سداد القرض"
+  },
+  "replaceCard": {
+    "male": "استبدل البطاقة",
+    "female": "استبدلي البطاقة",
+    "neutral": "استبدال البطاقة"
+  },
+  "reportFraud": {
+    "male": "أبلغ عن نشاط مشبوه",
+    "female": "أبلغي عن نشاط مشبوه",
+    "neutral": "الإبلاغ عن نشاط مشبوه"
+  },
+  "reportLostCard": {
+    "male": "أبلغ عن فقدان بطاقتكَ",
+    "female": "أبلغي عن فقدان بطاقتكِ",
+    "neutral": "الإبلاغ عن فقدان البطاقة"
+  },
+  "requestCard": {
+    "male": "اطلب بطاقة",
+    "female": "اطلبي بطاقة",
+    "neutral": "طلب بطاقة"
+  },
+  "requestLoan": {
+    "male": "اطلب قرضاً",
+    "female": "اطلبي قرضاً",
+    "neutral": "طلب قرض"
+  },
+  "requestMoney": {
+    "male": "اطلب أموالاً",
+    "female": "اطلبي أموالاً",
+    "neutral": "طلب أموال"
+  },
+  "requestStatement": {
+    "male": "اطلب كشف حساب",
+    "female": "اطلبي كشف حساب",
+    "neutral": "طلب كشف حساب"
+  },
+  "resendOtp": {
+    "male": "أعد إرسال الرمز",
+    "female": "أعيدي إرسال الرمز",
+    "neutral": "إعادة إرسال الرمز"
+  },
+  "savingsBalance": {
+    "neutral": "رصيد المدّخرات"
+  },
+  "savingsGoal": {
+    "neutral": "هدف الادّخار"
+  },
+  "savingsGoalAmount": {
+    "neutral": "مبلغ هدف الادّخار"
+  },
+  "savingsGoalCreated": {
+    "neutral": "تم إنشاء هدف الادّخار"
+  },
+  "savingsGoalName": {
+    "neutral": "اسم هدف الادّخار"
+  },
+  "savingsGoalReached": {
+    "male": "حقّقتَ هدف الادّخار",
+    "female": "حقّقتِ هدف الادّخار"
+  },
+  "savingsGoalTargetDate": {
+    "neutral": "تاريخ هدف الادّخار"
+  },
+  "scheduleDeposit": {
+    "male": "جدوِل إيداعاً",
+    "female": "جدوِلي إيداعاً",
+    "neutral": "جدولة إيداع"
+  },
+  "scheduleTransfer": {
+    "male": "جدوِل التحويل",
+    "female": "جدوِلي التحويل",
+    "neutral": "جدولة التحويل"
+  },
+  "scheduledPaymentSet": {
+    "neutral": "تمت جدولة الدفعة"
+  },
+  "searchTransactions": {
+    "male": "ابحث في معاملاتكَ",
+    "female": "ابحثي في معاملاتكِ",
+    "neutral": "البحث في المعاملات"
+  },
+  "secureLoginAttempt": {
+    "male": "تسجيل دخول إلى حسابكَ من متصفّح موثوق",
+    "female": "تسجيل دخول إلى حسابكِ من متصفّح موثوق"
+  },
+  "securityAlert": {
+    "neutral": "تنبيه أمني"
+  },
+  "selectBeneficiary": {
+    "male": "اختر مستفيداً",
+    "female": "اختاري مستفيداً",
+    "neutral": "اختيار مستفيد"
+  },
+  "setMonthlyBudget": {
+    "male": "حدّد الميزانية الشهرية",
+    "female": "حدّدي الميزانية الشهرية",
+    "neutral": "تحديد الميزانية الشهرية"
+  },
+  "setSpendingLimit": {
+    "male": "حدّد سقف الإنفاق",
+    "female": "حدّدي سقف الإنفاق",
+    "neutral": "تحديد سقف الإنفاق"
+  },
+  "setupAutoPay": {
+    "male": "فعّل السداد التلقائي",
+    "female": "فعّلي السداد التلقائي",
+    "neutral": "تفعيل السداد التلقائي"
+  },
+  "shareAccountDetails": {
+    "male": "شارك بيانات حسابكَ",
+    "female": "شاركي بيانات حسابكِ",
+    "neutral": "مشاركة بيانات الحساب"
+  },
+  "shareStatement": {
+    "male": "شارك كشف الحساب",
+    "female": "شاركي كشف الحساب",
+    "neutral": "مشاركة كشف الحساب"
+  },
+  "spendingLimit": {
+    "neutral": "حدّ الإنفاق"
+  },
+  "standingOrder": {
+    "neutral": "أمر دفع دائم"
+  },
+  "statementDownloaded": {
+    "male": "لقد حمّلتَ كشف الحساب",
+    "female": "لقد حمّلتِ كشف الحساب"
+  },
+  "statementPeriod": {
+    "neutral": "فترة كشف الحساب"
+  },
+  "statementReady": {
+    "male": "كشف حسابكَ جاهز",
+    "female": "كشف حسابكِ جاهز"
+  },
+  "suspiciousActivity": {
+    "neutral": "نشاط مشبوه"
+  },
+  "topUpWallet": {
+    "male": "اشحن المحفظة",
+    "female": "اشحني المحفظة",
+    "neutral": "شحن المحفظة"
+  },
+  "totalPaid": {
+    "neutral": "إجمالي المبالغ المدفوعة"
+  },
+  "transactionAuthorized": {
+    "male": "تمت الموافقة على معاملتكَ",
+    "female": "تمت الموافقة على معاملتكِ"
+  },
+  "transactionDeclined": {
+    "neutral": "تم رفض المعاملة"
+  },
+  "transactionDetails": {
+    "neutral": "تفاصيل المعاملة"
+  },
+  "transactionHistory": {
+    "neutral": "سجل المعاملات"
+  },
+  "transferAmount": {
+    "neutral": "مبلغ التحويل"
+  },
+  "transferCompleted": {
+    "neutral": "تم تنفيذ التحويل"
+  },
+  "transferFailed": {
+    "neutral": "تعذّر التحويل"
+  },
+  "transferFee": {
+    "neutral": "رسوم التحويل"
+  },
+  "transferFromAccount": {
+    "male": "حوّل من حسابكَ",
+    "female": "حوّلي من حسابكِ",
+    "neutral": "التحويل من الحساب"
+  },
+  "transferInProgress": {
+    "neutral": "التحويل قيد المعالجة"
+  },
+  "transferLimit": {
+    "neutral": "الحدّ الأقصى للتحويل"
+  },
+  "transferLimitExceeded": {
+    "neutral": "تم تجاوز حدّ التحويل"
+  },
+  "transferMoney": {
+    "male": "حوّل الأموال",
+    "female": "حوّلي الأموال",
+    "neutral": "تحويل الأموال"
+  },
+  "transferReceived": {
+    "male": "استلمتَ حوالة",
+    "female": "استلمتِ حوالة"
+  },
+  "transferScheduled": {
+    "neutral": "تمت جدولة التحويل"
+  },
+  "transferToAccount": {
+    "male": "حوّل إلى حسابكَ الآخر",
+    "female": "حوّلي إلى حسابكِ الآخر",
+    "neutral": "التحويل إلى الحساب الآخر"
+  },
+  "transferToBeneficiary": {
+    "male": "حوّل إلى مستفيد",
+    "female": "حوّلي إلى مستفيد",
+    "neutral": "التحويل إلى مستفيد"
+  },
+  "twoFactorAuth": {
+    "neutral": "المصادقة الثنائية"
+  },
+  "unfreezeCard": {
+    "male": "ألغِ تجميد البطاقة",
+    "female": "ألغي تجميد البطاقة",
+    "neutral": "إلغاء تجميد البطاقة"
+  },
+  "upcomingPayments": {
+    "neutral": "الدفعات القادمة"
+  },
+  "updateKyc": {
+    "male": "حدّث بياناتكَ",
+    "female": "حدّثي بياناتكِ",
+    "neutral": "تحديث البيانات"
+  },
+  "updateSavingsGoal": {
+    "male": "حدّث هدف الادّخار",
+    "female": "حدّثي هدف الادّخار",
+    "neutral": "تحديث هدف الادّخار"
+  },
+  "upgradeAccount": {
+    "male": "رقِّ حسابكَ",
+    "female": "رقّي حسابكِ",
+    "neutral": "ترقية الحساب"
+  },
+  "verificationCodeExpired": {
+    "neutral": "انتهت صلاحية رمز التحقّق"
+  },
+  "verificationCodeSent": {
+    "male": "أُرسل رمز التحقّق إلى هاتفكَ",
+    "female": "أُرسل رمز التحقّق إلى هاتفكِ"
+  },
+  "verifyIdentity": {
+    "male": "أكّد هويتكَ",
+    "female": "أكّدي هويتكِ",
+    "neutral": "تأكيد الهوية"
+  },
+  "viewCardDetails": {
+    "male": "اعرض بيانات بطاقتكَ",
+    "female": "اعرضي بيانات بطاقتكِ",
+    "neutral": "عرض بيانات البطاقة"
+  },
+  "viewStatement": {
+    "male": "اعرض كشف حسابكَ",
+    "female": "اعرضي كشف حسابكِ",
+    "neutral": "عرض كشف الحساب"
+  },
+  "virtualCard": {
+    "neutral": "بطاقة افتراضية"
+  },
+  "withdrawFailed": {
+    "neutral": "تعذّر السحب"
+  },
+  "withdrawFromSavings": {
+    "male": "اسحب من مدّخراتكَ",
+    "female": "اسحبي من مدّخراتكِ",
+    "neutral": "السحب من المدّخرات"
+  },
+  "withdrawMoney": {
+    "male": "اسحب رصيداً",
+    "female": "اسحبي رصيداً",
+    "neutral": "سحب رصيد"
+  },
+  "withdrawSuccessful": {
+    "male": "سحبتَ رصيداً بنجاح",
+    "female": "سحبتِ رصيداً بنجاح"
+  },
+  "withdrawalLimit": {
+    "neutral": "حدّ السحب"
+  },
+  "youTransferred": {
+    "male": "لقد حوّلتَ المبلغ",
+    "female": "لقد حوّلتِ المبلغ"
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "acceptFollowRequest": {
+    "male": "اقبل طلب المتابعة",
+    "female": "اقبلي طلب المتابعة",
+    "neutral": "قبول طلب المتابعة"
+  },
+  "acceptFriendRequest": {
+    "male": "اقبل طلب الصداقة",
+    "female": "اقبلي طلب الصداقة",
+    "neutral": "قبول طلب الصداقة"
+  },
+  "acceptJoinRequest": {
+    "male": "اقبل طلب الانضمام",
+    "female": "اقبلي طلب الانضمام",
+    "neutral": "قبول طلب الانضمام"
+  },
+  "accountPrivate": {
+    "male": "حسابُكَ خاصٌّ",
+    "female": "حسابُكِ خاصٌّ"
+  },
+  "accountPublic": {
+    "male": "حسابُكَ عامٌّ",
+    "female": "حسابُكِ عامٌّ"
+  },
+  "addFriend": {
+    "male": "أضف صديقاً",
+    "female": "أضيفي صديقاً",
+    "neutral": "إضافة صديق"
+  },
+  "blockUser": {
+    "male": "احظر العضو",
+    "female": "احظري العضو",
+    "neutral": "حظر العضو"
+  },
+  "cancelFollowRequest": {
+    "male": "ألغِ طلب المتابعة",
+    "female": "ألغي طلب المتابعة",
+    "neutral": "إلغاء طلب المتابعة"
+  },
+  "commentHidden": {
+    "neutral": "أُخفيَ التعليق"
+  },
+  "commentLiked": {
+    "male": "أُعجِبَ بتعليقِكَ",
+    "female": "أُعجِبَ بتعليقِكِ"
+  },
+  "commentOnPost": {
+    "male": "علّق على المنشور",
+    "female": "علّقي على المنشور",
+    "neutral": "التعليق على المنشور"
+  },
+  "communityGuidelines": {
+    "neutral": "إرشادات المجتمع"
+  },
+  "contentUnderReview": {
+    "neutral": "المحتوى قيد المراجعة"
+  },
+  "conversationArchived": {
+    "neutral": "أُرشِفت المحادثة"
+  },
+  "conversationMuted": {
+    "neutral": "كُتِمت المحادثة"
+  },
+  "conversationUnmuted": {
+    "neutral": "أُلغِي كتم المحادثة"
+  },
+  "createGroup": {
+    "male": "أنشئ مجموعة",
+    "female": "أنشئي مجموعة",
+    "neutral": "إنشاء مجموعة"
+  },
+  "createPoll": {
+    "male": "أنشئ استطلاعاً",
+    "female": "أنشئي استطلاعاً",
+    "neutral": "إنشاء استطلاع"
+  },
+  "createPost": {
+    "male": "انشر منشوراً",
+    "female": "انشري منشوراً",
+    "neutral": "نشر منشور"
+  },
+  "declineFriendRequest": {
+    "male": "ارفض طلب الصداقة",
+    "female": "ارفضي طلب الصداقة",
+    "neutral": "رفض طلب الصداقة"
+  },
+  "followBack": {
+    "male": "تابِع بالمثل",
+    "female": "تابعي بالمثل",
+    "neutral": "المتابعة بالمثل"
+  },
+  "followRequest": {
+    "neutral": "طلب متابعة"
+  },
+  "followRequestAccepted": {
+    "male": "قُبِل طلبُ متابعتِكَ",
+    "female": "قُبِل طلبُ متابعتِكِ"
+  },
+  "followRequestPending": {
+    "neutral": "طلب المتابعة قيد الانتظار"
+  },
+  "followRequestRejected": {
+    "male": "رُفِض طلبُ متابعتِكَ",
+    "female": "رُفِض طلبُ متابعتِكِ"
+  },
+  "followRequestSent": {
+    "male": "أُرسل طلبُ متابعتِكَ",
+    "female": "أُرسل طلبُ متابعتِكِ"
+  },
+  "followSuggestions": {
+    "neutral": "اقتراحات المتابعة"
+  },
+  "followUser": {
+    "male": "تابع العضو",
+    "female": "تابعي العضو",
+    "neutral": "متابعة العضو"
+  },
+  "followersList": {
+    "neutral": "قائمة المتابِعين"
+  },
+  "followingList": {
+    "neutral": "قائمة المتابَعين"
+  },
+  "friendRequest": {
+    "neutral": "طلب صداقة"
+  },
+  "friendRequestAccepted": {
+    "male": "قُبِل طلبُ صداقتِكَ",
+    "female": "قُبِل طلبُ صداقتِكِ"
+  },
+  "friendRequestDeclined": {
+    "male": "رُفِض طلبُ صداقتِكَ",
+    "female": "رُفِض طلبُ صداقتِكِ"
+  },
+  "friendRequestSent": {
+    "male": "أُرسل طلبُ صداقتِكَ",
+    "female": "أُرسل طلبُ صداقتِكِ"
+  },
+  "groupArchived": {
+    "neutral": "أُرشِفت المجموعة"
+  },
+  "groupClosed": {
+    "neutral": "المجموعة مغلقة"
+  },
+  "groupCreated": {
+    "neutral": "أُنشئت المجموعة"
+  },
+  "groupMembers": {
+    "neutral": "أعضاء المجموعة"
+  },
+  "groupMention": {
+    "male": "ذُكِرتَ في مجموعة",
+    "female": "ذُكِرتِ في مجموعة"
+  },
+  "groupMuted": {
+    "neutral": "كُتِمت المجموعة"
+  },
+  "groupPrivate": {
+    "neutral": "المجموعة خاصّة"
+  },
+  "groupPublic": {
+    "neutral": "المجموعة عامّة"
+  },
+  "groupRules": {
+    "neutral": "قواعد المجموعة"
+  },
+  "hideComment": {
+    "male": "أخفِ التعليق",
+    "female": "أخفي التعليق",
+    "neutral": "إخفاء التعليق"
+  },
+  "hidePost": {
+    "male": "أخفِ المنشور",
+    "female": "أخفي المنشور",
+    "neutral": "إخفاء المنشور"
+  },
+  "invitationAccepted": {
+    "male": "قُبِلت دعوتُكَ",
+    "female": "قُبِلت دعوتُكِ"
+  },
+  "inviteSent": {
+    "neutral": "أُرسِلت الدعوة"
+  },
+  "inviteToGroup": {
+    "male": "ادعُ إلى المجموعة",
+    "female": "ادعي إلى المجموعة",
+    "neutral": "الدعوة إلى المجموعة"
+  },
+  "invitedYouToGroup": {
+    "male": "دعاكَ أحدُهم إلى مجموعة",
+    "female": "دعاكِ أحدُهم إلى مجموعة"
+  },
+  "joinCommunity": {
+    "male": "انضمّ إلى المجتمع",
+    "female": "انضمّي إلى المجتمع",
+    "neutral": "الانضمام إلى المجتمع"
+  },
+  "joinGroup": {
+    "male": "انضمّ إلى المجموعة",
+    "female": "انضمّي إلى المجموعة",
+    "neutral": "الانضمام إلى المجموعة"
+  },
+  "joinRequestAccepted": {
+    "male": "قُبِل طلبُ انضمامِكَ",
+    "female": "قُبِل طلبُ انضمامِكِ"
+  },
+  "joinRequestPending": {
+    "neutral": "طلب الانضمام قيد المراجعة"
+  },
+  "joinRequestRejected": {
+    "male": "رُفض طلبُ انضمامِكَ",
+    "female": "رُفض طلبُ انضمامِكِ"
+  },
+  "lastSeen": {
+    "neutral": "آخر ظهور"
+  },
+  "leaveCommunity": {
+    "male": "غادر المجتمع",
+    "female": "غادري المجتمع",
+    "neutral": "مغادرة المجتمع"
+  },
+  "leaveGroup": {
+    "male": "غادر المجموعة",
+    "female": "غادري المجموعة",
+    "neutral": "مغادرة المجموعة"
+  },
+  "likePost": {
+    "neutral": "إعجاب"
+  },
+  "liveNow": {
+    "neutral": "بثّ مباشر الآن"
+  },
+  "mentionUser": {
+    "male": "أشِر إلى العضو",
+    "female": "أشيري إلى العضو",
+    "neutral": "الإشارة إلى العضو"
+  },
+  "mentionedYou": {
+    "male": "أشار إليكَ أحدُهم",
+    "female": "أشار إليكِ أحدُهم"
+  },
+  "mentionedYouInComment": {
+    "male": "ذكرَكَ أحدهم في تعليق",
+    "female": "ذكرَكِ أحدهم في تعليق"
+  },
+  "mentionedYouInPost": {
+    "male": "ذكرَكَ أحدهم في منشور",
+    "female": "ذكرَكِ أحدهم في منشور"
+  },
+  "messageDelivered": {
+    "male": "سُلّمت رسالتُكَ",
+    "female": "سُلّمت رسالتُكِ"
+  },
+  "messageRead": {
+    "male": "رسالتُكَ مقروءة",
+    "female": "رسالتُكِ مقروءة"
+  },
+  "messageSent": {
+    "male": "أُرسلت رسالتُكَ",
+    "female": "أُرسلت رسالتُكِ"
+  },
+  "moderationWarning": {
+    "neutral": "تحذير من الإشراف"
+  },
+  "muteConversation": {
+    "male": "اكتم المحادثة",
+    "female": "اكتمي المحادثة",
+    "neutral": "كتم المحادثة"
+  },
+  "muteUser": {
+    "male": "اكتم العضو",
+    "female": "اكتمي العضو",
+    "neutral": "كتم العضو"
+  },
+  "mutualConnections": {
+    "neutral": "أصدقاء مشتركون"
+  },
+  "newComment": {
+    "neutral": "تعليق جديد"
+  },
+  "newFollower": {
+    "male": "تابعكَ شخصٌ جديد",
+    "female": "تابعكِ شخصٌ جديد"
+  },
+  "newFriendRequest": {
+    "neutral": "طلب صداقة جديد"
+  },
+  "newGroupMember": {
+    "neutral": "انضمّ عضوٌ جديد إلى المجموعة"
+  },
+  "newGroupMessage": {
+    "neutral": "رسالة جديدة في المجموعة"
+  },
+  "newGroupPost": {
+    "neutral": "منشور جديد في المجموعة"
+  },
+  "newInvitation": {
+    "neutral": "دعوة جديدة"
+  },
+  "newMessage": {
+    "neutral": "رسالة جديدة"
+  },
+  "onlineNow": {
+    "neutral": "متّصل الآن"
+  },
+  "pinPost": {
+    "male": "ثبّت المنشور",
+    "female": "ثبّتي المنشور",
+    "neutral": "تثبيت المنشور"
+  },
+  "postArchived": {
+    "neutral": "أُرشِف المنشور"
+  },
+  "postCommented": {
+    "male": "عُلّق على منشورِكَ",
+    "female": "عُلّق على منشورِكِ"
+  },
+  "postHidden": {
+    "neutral": "أُخفِيَ المنشور"
+  },
+  "postLiked": {
+    "male": "أُعجِبَ بمنشورِكَ",
+    "female": "أُعجِبَ بمنشورِكِ"
+  },
+  "postPinned": {
+    "neutral": "ثُبّت المنشور"
+  },
+  "postPublished": {
+    "male": "نُشر منشورُكَ",
+    "female": "نُشر منشورُكِ"
+  },
+  "postReposted": {
+    "male": "أُعيدَ نشرُ منشورِكَ",
+    "female": "أُعيدَ نشرُ منشورِكِ"
+  },
+  "postScheduled": {
+    "male": "جُدوِلَ منشورُكَ",
+    "female": "جُدوِلَ منشورُكِ"
+  },
+  "profileVisited": {
+    "male": "زار أحدُهم ملفَّكَ",
+    "female": "زار أحدُهم ملفَّكِ"
+  },
+  "promotedToAdmin": {
+    "male": "عُيّنتَ مشرفاً",
+    "female": "عُيّنتِ مشرفةً"
+  },
+  "removeFollower": {
+    "male": "أزل المتابع",
+    "female": "أزيلي المتابع",
+    "neutral": "إزالة المتابع"
+  },
+  "removedFromGroup": {
+    "male": "أُزِلتَ من المجموعة",
+    "female": "أُزِلتِ من المجموعة"
+  },
+  "repliedToComment": {
+    "male": "رُدَّ على تعليقِكَ",
+    "female": "رُدَّ على تعليقِكِ"
+  },
+  "repliedToYou": {
+    "male": "ردّ عليكَ أحدُهم",
+    "female": "ردّ عليكِ أحدُهم"
+  },
+  "replyPosted": {
+    "male": "نُشر ردُّكَ",
+    "female": "نُشر ردُّكِ"
+  },
+  "replyToComment": {
+    "male": "رُدّ على التعليق",
+    "female": "رُدّي على التعليق",
+    "neutral": "الردّ على التعليق"
+  },
+  "reportComment": {
+    "male": "أبلِغ عن التعليق",
+    "female": "أبلِغي عن التعليق",
+    "neutral": "الإبلاغ عن التعليق"
+  },
+  "reportMessage": {
+    "male": "أبلِغ عن الرسالة",
+    "female": "أبلِغي عن الرسالة",
+    "neutral": "الإبلاغ عن الرسالة"
+  },
+  "reportPost": {
+    "male": "أبلِغ عن منشور",
+    "female": "أبلِغي عن منشور",
+    "neutral": "الإبلاغ عن منشور"
+  },
+  "reportSubmitted": {
+    "male": "أُرسل بلاغُكَ",
+    "female": "أُرسل بلاغُكِ"
+  },
+  "reportUser": {
+    "male": "أبلِغ عن العضو",
+    "female": "أبلِغي عن العضو",
+    "neutral": "الإبلاغ عن العضو"
+  },
+  "repostPost": {
+    "male": "أعِد النشر",
+    "female": "أعيدي النشر",
+    "neutral": "إعادة النشر"
+  },
+  "requestJoinGroup": {
+    "male": "اطلب الانضمام إلى المجموعة",
+    "female": "اطلبي الانضمام إلى المجموعة",
+    "neutral": "طلب الانضمام إلى المجموعة"
+  },
+  "reviewCompleted": {
+    "neutral": "تمّت المراجعة"
+  },
+  "startConversation": {
+    "male": "ابدأ محادثة",
+    "female": "ابدئي محادثة",
+    "neutral": "بدء محادثة"
+  },
+  "startLive": {
+    "male": "ابدأ بثّاً مباشراً",
+    "female": "ابدئي بثّاً مباشراً",
+    "neutral": "بدء بثّ مباشر"
+  },
+  "taggedYouInPhoto": {
+    "male": "وسمكَ في صورة",
+    "female": "وسمكِ في صورة"
+  },
+  "threadLocked": {
+    "neutral": "أُغلق النقاش"
+  },
+  "typingNow": {
+    "neutral": "يكتب الآن"
+  },
+  "unblockUser": {
+    "male": "ألغِ حظر العضو",
+    "female": "ألغي حظر العضو",
+    "neutral": "إلغاء حظر العضو"
+  },
+  "unfollowUser": {
+    "male": "ألغِ المتابعة",
+    "female": "ألغي المتابعة",
+    "neutral": "إلغاء المتابعة"
+  },
+  "unfriendUser": {
+    "male": "ألغِ الصداقة",
+    "female": "ألغي الصداقة",
+    "neutral": "إلغاء الصداقة"
+  },
+  "unlikePost": {
+    "male": "ألغِ إعجابكَ بالمنشور",
+    "female": "ألغي إعجابكِ بالمنشور"
+  },
+  "unmuteConversation": {
+    "male": "ألغِ كتم المحادثة",
+    "female": "ألغي كتم المحادثة",
+    "neutral": "إلغاء كتم المحادثة"
+  },
+  "unmuteUser": {
+    "male": "ألغِ كتم العضو",
+    "female": "ألغي كتم العضو",
+    "neutral": "إلغاء كتم العضو"
+  },
+  "unpinPost": {
+    "male": "ألغِ تثبيت المنشور",
+    "female": "ألغي تثبيت المنشور",
+    "neutral": "إلغاء تثبيت المنشور"
+  },
+  "userBlocked": {
+    "neutral": "حُظِر العضو"
+  },
+  "userLeftGroup": {
+    "neutral": "غادر عضوٌ المجموعة"
+  },
+  "userMuted": {
+    "neutral": "كُتِم العضو"
+  },
+  "viewProfile": {
+    "male": "اعرض الملف الشخصي",
+    "female": "اعرضي الملف الشخصي",
+    "neutral": "عرض الملف الشخصي"
+  },
+  "youAreFollowing": {
+    "male": "أنتَ تتابع",
+    "female": "أنتِ تتابعين"
+  },
+  "youBlockedUser": {
+    "male": "لقد حظرتَ العضو",
+    "female": "لقد حظرتِ العضو"
+  },
+  "youCommented": {
+    "male": "لقد علّقتَ",
+    "female": "لقد علّقتِ"
+  },
+  "youFollowedUser": {
+    "male": "لقد تابعتَ الحساب",
+    "female": "لقد تابعتِ الحساب"
+  },
+  "youJoinedGroup": {
+    "male": "لقد انضممتَ إلى المجموعة",
+    "female": "لقد انضممتِ إلى المجموعة"
+  },
+  "youLeftGroup": {
+    "male": "لقد غادرتَ المجموعة",
+    "female": "لقد غادرتِ المجموعة"
+  },
+  "youLikedPost": {
+    "male": "لقد أعجبتَ بالمنشور",
+    "female": "لقد أعجبتِ بالمنشور"
+  },
+  "youMentionedUser": {
+    "male": "لقد أشرتَ إلى العضو",
+    "female": "لقد أشرتِ إلى العضو"
+  },
+  "youMutedUser": {
+    "male": "لقد كتمتَ العضو",
+    "female": "لقد كتمتِ العضو"
+  },
+  "youPosted": {
+    "male": "لقد نشرتَ منشورَكَ",
+    "female": "لقد نشرتِ منشورَكِ"
+  },
+  "youReplied": {
+    "male": "لقد رددتَ",
+    "female": "لقد رددتِ"
+  },
+  "youReposted": {
+    "male": "لقد أعدتَ نشر المنشور",
+    "female": "لقد أعدتِ نشر المنشور"
+  }
+}

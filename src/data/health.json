@@ -1,0 +1,326 @@
+{
+  "addAllergy": {
+    "male": "أضف حساسية",
+    "female": "أضيفي حساسية",
+    "neutral": "إضافة حساسية"
+  },
+  "allergiesList": {
+    "neutral": "قائمة الحساسية"
+  },
+  "ambulanceDispatched": {
+    "neutral": "تمّ إرسال سيارة الإسعاف"
+  },
+  "bloodPressure": {
+    "neutral": "ضغط الدم"
+  },
+  "bloodSugar": {
+    "neutral": "مستوى السكّر في الدم"
+  },
+  "bloodType": {
+    "neutral": "فصيلة الدم"
+  },
+  "bodyTemperature": { 
+    "neutral": "درجة حرارة الجسم"
+  },
+  "callDropped": {
+    "neutral": "انقطع الاتصال بالزيارة المرئية"
+  },
+  "callEmergency": {
+    "male": "اتّصل بالطوارئ",
+    "female": "اتّصلي بالطوارئ",
+    "neutral": "الاتصال بالطوارئ"
+  },
+  "checkMedicalEligibility": {
+    "male": "تأكّد من أهليتكَ الطبّية",
+    "female": "تأكّدي من أهليتكِ الطبّية",
+    "neutral": "التحقّق من الأهلية الطبّية"
+  },
+  "chronicConditions": {
+    "neutral": "الأمراض المزمنة"
+  },
+  "claimApproved": {
+    "neutral": "قُبِلت المطالبة"
+  },
+  "claimRejected": {
+    "neutral": "رُفِضت المطالبة"
+  },
+  "claimUnderReview": {
+    "neutral": "المطالبة قيد المراجعة"
+  },
+  "consultationEnded": {
+    "neutral": "انتهت الاستشارة"
+  },
+  "consultationStarted": {
+    "neutral": "بدأت الاستشارة"
+  },
+  "consultationSummary": {
+    "neutral": "ملخّص الاستشارة"
+  },
+  "copayDue": {
+    "neutral": "مبلغ التحمّل مستحقّ"
+  },
+  "criticalLabValue": {
+    "neutral": "قيمة حرجة"
+  },
+  "currentMedications": {
+    "neutral": "الأدوية الحالية"
+  },
+  "deductibleMet": {
+    "neutral": "تمّ استيفاء مبلغ الاقتطاع"
+  },
+  "diagnosisRecorded": {
+    "neutral": "تمّ تسجيل التشخيص"
+  },
+  "doctorJoined": {
+    "neutral": "انضمّ الطبيب إلى الزيارة"
+  },
+  "doctorNotes": {
+    "neutral": "ملاحظات الطبيب"
+  },
+  "doctorOffline": {
+    "neutral": "الطبيب غير متّصل حالياً"
+  },
+  "doctorWillSeeYouNow": {
+    "male": "الطبيب سيستقبلكَ الآن",
+    "female": "الطبيب سيستقبلكِ الآن"
+  },
+  "emergencyWaitTime": {
+    "neutral": "زمن انتظار الطوارئ"
+  },
+  "healthProfileIncomplete": {
+    "male": "ملفّكَ الصحّي غير مكتمل",
+    "female": "ملفّكِ الصحّي غير مكتمل"
+  },
+  "heartRate": {
+    "neutral": "معدّل النبض"
+  },
+  "imagingResultReady": {
+    "male": "نتيجة تصويركَ جاهزة",
+    "female": "نتيجة تصويركِ جاهزة"
+  },
+  "insuranceCard": {
+    "neutral": "بطاقة التأمين"
+  },
+  "joinVideoConsultation": {
+    "male": "انضمّ للزيارة المرئية",
+    "female": "انضمّي للزيارة المرئية",
+    "neutral": "الانضمام للزيارة المرئية"
+  },
+  "labResultAbnormal": {
+    "neutral": "النتيجة خارج المعدّل الطبيعي"
+  },
+  "labResultNormal": {
+    "neutral": "النتيجة ضمن المعدّل الطبيعي"
+  },
+  "labResultPending": {
+    "neutral": "لم تصدر النتيجة بعد"
+  },
+  "labResultReady": {
+    "male": "نتيجتكَ جاهزة",
+    "female": "نتيجتكِ جاهزة"
+  },
+  "labResultReviewed": {
+    "neutral": "تمّت مراجعة النتيجة"
+  },
+  "logBloodSugar": {
+    "male": "سجّل قراءة السكّر",
+    "female": "سجّلي قراءة السكّر",
+    "neutral": "تسجيل قراءة السكّر"
+  },
+  "logMedicationDose": {
+    "male": "سجّل جرعتكَ",
+    "female": "سجّلي جرعتكِ",
+    "neutral": "تسجيل الجرعة"
+  },
+  "logVitalReading": {
+    "male": "سجّل قراءتكَ",
+    "female": "سجّلي قراءتكِ",
+    "neutral": "تسجيل القراءة"
+  },
+  "medicalCertificateReady": {
+    "male": "شهادتكَ الطبّية جاهزة",
+    "female": "شهادتكِ الطبّية جاهزة"
+  },
+  "medicalHistory": {
+    "neutral": "التاريخ الطبّي"
+  },
+  "medicalReportPending": {
+    "neutral": "التقرير الطبّي قيد الإعداد"
+  },
+  "medicalReportReady": {
+    "male": "تقريركَ الطبّي جاهز",
+    "female": "تقريركِ الطبّي جاهز"
+  },
+  "medicalReportView": {
+    "male": "استعرض تقريركَ الطبّي",
+    "female": "استعرضي تقريركِ الطبّي",
+    "neutral": "استعراض التقرير الطبّي"
+  },
+  "medicationOutOfStock": {
+    "neutral": "الدواء غير متوفّر حالياً"
+  },
+  "medicationReminder": {
+    "neutral": "تذكير بالدواء"
+  },
+  "navigateUrgentCare": {
+    "male": "توجّه لأقرب رعاية عاجلة",
+    "female": "توجّهي لأقرب رعاية عاجلة",
+    "neutral": "التوجّه لأقرب رعاية عاجلة"
+  },
+  "nearestEmergencyRoom": {
+    "neutral": "أقرب قسم طوارئ"
+  },
+  "organDonorStatus": {
+    "neutral": "حالة التبرّع بالأعضاء"
+  },
+  "outOfTargetRange": {
+    "neutral": "خارج النطاق المستهدف"
+  },
+  "oxygenLevel": {
+    "neutral": "مستوى الأكسجين"
+  },
+  "patientDashboard": {
+    "neutral": "لوحة المريض"
+  },
+  "prescriptionDispensed": {
+    "male": "صُرِفت وصفتكَ",
+    "female": "صُرِفت وصفتكِ"
+  },
+  "prescriptionExpired": {
+    "male": "انتهت صلاحية وصفتكَ",
+    "female": "انتهت صلاحية وصفتكِ"
+  },
+  "prescriptionReadyAtPharmacy": {
+    "male": "وصفتكَ جاهزة في الصيدلية",
+    "female": "وصفتكِ جاهزة في الصيدلية"
+  },
+  "prescriptionSentToPharmacy": {
+    "male": "أُرسلت وصفتكَ إلى الصيدلية",
+    "female": "أُرسلت وصفتكِ إلى الصيدلية"
+  },
+  "priorAuthorization": {
+    "neutral": "الموافقة المسبقة"
+  },
+  "priorAuthorizationPending": {
+    "neutral": "الموافقة المسبقة قيد المراجعة"
+  },
+  "rateDoctor": {
+    "male": "قيّم الطبيب",
+    "female": "قيّمي الطبيب",
+    "neutral": "تقييم الطبيب"
+  },
+  "referralAccepted": {
+    "neutral": "قُبِل التحويل"
+  },
+  "referralExpired": {
+    "neutral": "انتهت صلاحية التحويل"
+  },
+  "referralPending": {
+    "neutral": "التحويل قيد المراجعة"
+  },
+  "referralRejected": {
+    "neutral": "رُفِض التحويل"
+  },
+  "referredToSpecialist": {
+    "male": "تم تحويلكَ إلى أخصائي",
+    "female": "تم تحويلكِ إلى أخصائي"
+  },
+  "refillApproved": {
+    "neutral": "قُبِل طلب إعادة الصرف"
+  },
+  "refillPrescription": {
+    "male": "أعد صرف وصفتكَ",
+    "female": "أعيدي صرف وصفتكِ",
+    "neutral": "إعادة صرف الوصفة"
+  },
+  "refillRejected": {
+    "neutral": "رُفِض طلب إعادة الصرف"
+  },
+  "requestAmbulance": {
+    "male": "اطلب إسعافاً",
+    "female": "اطلبي إسعافاً",
+    "neutral": "طلب إسعاف"
+  },
+  "requestLabTest": {
+    "male": "اطلب تحليلاً",
+    "female": "اطلبي تحليلاً",
+    "neutral": "طلب تحليل"
+  },
+  "requestSecondOpinion": {
+    "male": "اطلب رأياً ثانياً",
+    "female": "اطلبي رأياً ثانياً",
+    "neutral": "طلب رأي ثانٍ"
+  },
+  "sampleCollected": {
+    "neutral": "أُخِذت العيّنة"
+  },
+  "serviceCovered": {
+    "neutral": "تمّت تغطية الخدمة"
+  },
+  "serviceNotCovered": {
+    "neutral": "الخدمة غير مغطّاة"
+  },
+  "specimenRejected": {
+    "neutral": "رُفِضت العيّنة"
+  },
+  "startConsultation": {
+    "male": "ابدأ الاستشارة",
+    "female": "ابدئي الاستشارة",
+    "neutral": "بدء الاستشارة"
+  },
+  "submitMedicalClaim": {
+    "male": "قدّم مطالبة",
+    "female": "قدّمي مطالبة",
+    "neutral": "تقديم مطالبة"
+  },
+  "symptomChecker": {
+    "neutral": "فاحص الأعراض"
+  },
+  "triageLevel": {
+    "neutral": "مستوى الفرز"
+  },
+  "urgentCareAvailable": {
+    "neutral": "الرعاية العاجلة متاحة"
+  },
+  "vaccinationDue": {
+    "neutral": "تطعيم مستحقّ"
+  },
+  "vaccinationGiven": {
+    "neutral": "تمّ إعطاء التطعيم"
+  },
+  "vaccinationRecord": {
+    "neutral": "سجلّ التطعيمات"
+  },
+  "videoVisitConnecting": {
+    "neutral": "جارٍ الاتصال بالزيارة المرئية"
+  },
+  "vitalsHistory": {
+    "neutral": "سجلّ القياسات الحيوية"
+  },
+  "waitingForDoctor": {
+    "neutral": "في انتظار الطبيب"
+  },
+  "withinTargetRange": {
+    "neutral": "ضمن النطاق المستهدف"
+  },
+  "youCompletedConsultation": {
+    "male": "لقد أكملتَ استشارتكَ",
+    "female": "لقد أكملتِ استشارتكِ"
+  },
+  "youLoggedVitalReading": {
+    "male": "لقد سجّلتَ قراءتكَ",
+    "female": "لقد سجّلتِ قراءتكِ"
+  },
+  "youRequestedRefill": {
+    "male": "لقد طلبتَ إعادة الصرف",
+    "female": "لقد طلبتِ إعادة الصرف"
+  },
+  "youRequestedSecondOpinion": {
+    "male": "لقد طلبتَ رأياً ثانياً",
+    "female": "لقد طلبتِ رأياً ثانياً"
+  },
+  "youSubmittedClaim": {
+    "male": "لقد قدّمتَ مطالبتكَ",
+    "female": "لقد قدّمتِ مطالبتكِ"
+  }
+}

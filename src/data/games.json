@@ -1,0 +1,356 @@
+{
+  "achievementUnlocked": {
+    "neutral": "فُتح إنجاز"
+  },
+  "allAchievementsUnlocked": {
+    "neutral": "فُتحت جميع الإنجازات"
+  },
+  "allMissionsCompleted": {
+    "neutral": "اكتملت جميع المهام"
+  },
+  "challengeCompleted": {
+    "neutral": "اكتمل التحدّي"
+  },
+  "challengeFailed": {
+    "neutral": "فشل التحدّي"
+  },
+  "claimReward": {
+    "male": "طالِب بمكافأتكَ",
+    "female": "طالِبي بمكافأتكِ",
+    "neutral": "المطالبة بالمكافأة"
+  },
+  "currentLevel": {
+    "male": "مستواكَ الحاليّ",
+    "female": "مستواكِ الحاليّ"
+  },
+  "dailyChallenge": {
+    "neutral": "التحدّي اليوميّ"
+  },
+  "dailyReward": {
+    "neutral": "المكافأة اليومية"
+  },
+  "draw": {
+    "neutral": "تعادل"
+  },
+  "equipItem": {
+    "male": "جهّز العنصر",
+    "female": "جهّزي العنصر",
+    "neutral": "تجهيز العنصر"
+  },
+  "exitMatch": {
+    "male": "اخرج من المباراة",
+    "female": "اخرجي من المباراة",
+    "neutral": "الخروج من المباراة"
+  },
+  "extraLifeEarned": {
+    "male": "لقد حصلتَ على محاولة إضافية",
+    "female": "لقد حصلتِ على محاولة إضافية"
+  },
+  "finalLevel": {
+    "neutral": "المستوى الأخير"
+  },
+  "finalScore": {
+    "neutral": "النتيجة النهائية"
+  },
+  "gameOver": {
+    "neutral": "انتهت اللعبة"
+  },
+  "gamePaused": {
+    "neutral": "أُوقفت اللعبة مؤقتاً"
+  },
+  "gameResumed": {
+    "neutral": "استؤنفت اللعبة"
+  },
+  "joinMatch": {
+    "male": "انضمّ للمباراة",
+    "female": "انضمّي للمباراة",
+    "neutral": "الانضمام للمباراة"
+  },
+  "joinTeam": {
+    "male": "انضمّ للفريق",
+    "female": "انضمّي للفريق",
+    "neutral": "الانضمام للفريق"
+  },
+  "leaderboard": {
+    "neutral": "لوحة الصدارة"
+  },
+  "levelCompleted": {
+    "neutral": "اكتمل المستوى"
+  },
+  "levelFailed": {
+    "neutral": "فشل المستوى"
+  },
+  "levelLocked": {
+    "neutral": "المستوى مقفل"
+  },
+  "levelProgress": {
+    "male": "تقدّمكَ في المستوى",
+    "female": "تقدّمكِ في المستوى"
+  },
+  "levelUnlocked": {
+    "neutral": "فُتح مستوى جديد"
+  },
+  "livesRemaining": {
+    "male": "محاولاتكَ المتبقية",
+    "female": "محاولاتكِ المتبقية"
+  },
+  "matchCancelled": {
+    "neutral": "أُلغيت المباراة"
+  },
+  "matchEnded": {
+    "neutral": "انتهت المباراة"
+  },
+  "matchFound": {
+    "neutral": "عُثر على مباراة"
+  },
+  "matchInProgress": {
+    "neutral": "المباراة جارية"
+  },
+  "missionCompleted": {
+    "neutral": "اكتملت المهمة"
+  },
+  "missionFailed": {
+    "neutral": "فشلت المهمة"
+  },
+  "missionInProgress": {
+    "neutral": "المهمة جارية"
+  },
+  "missionObjective": {
+    "neutral": "هدف المهمة"
+  },
+  "missionProgress": {
+    "male": "تقدّمكَ في المهمة",
+    "female": "تقدّمكِ في المهمة"
+  },
+  "newHighScore": {
+    "neutral": "رقم قياسيّ جديد"
+  },
+  "newMission": {
+    "neutral": "مهمة جديدة"
+  },
+  "nextLevel": {
+    "neutral": "المستوى التالي"
+  },
+  "nextRound": {
+    "neutral": "الجولة التالية"
+  },
+  "opponentTurn": {
+    "neutral": "دور الخصم"
+  },
+  "outOfEnergy": {
+    "neutral": "نفدت الطاقة"
+  },
+  "outOfLives": {
+    "neutral": "نفدت المحاولات"
+  },
+  "pauseGame": {
+    "male": "أوقِف المباراة مؤقتاً",
+    "female": "أوقِفي المباراة مؤقتاً",
+    "neutral": "إيقاف المباراة مؤقتاً"
+  },
+  "playAgain": {
+    "male": "العب مجدداً",
+    "female": "العبي مجدداً",
+    "neutral": "اللعب مجدداً"
+  },
+  "playerJoined": {
+    "neutral": "انضمّ لاعب"
+  },
+  "playerLeft": {
+    "neutral": "غادر لاعب"
+  },
+  "practiceMode": {
+    "neutral": "وضع التدريب"
+  },
+  "progressSaved": {
+    "male": "تقدّمكَ محفوظ",
+    "female": "تقدّمكِ محفوظ"
+  },
+  "rankingUpdated": {
+    "neutral": "تحدّث الترتيب"
+  },
+  "rateGame": {
+    "male": "قيّم اللعبة",
+    "female": "قيّمي اللعبة",
+    "neutral": "تقييم اللعبة"
+  },
+  "readyUp": {
+    "male": "استعدّ للمباراة",
+    "female": "استعدّي للمباراة",
+    "neutral": "الاستعداد للمباراة"
+  },
+  "respawn": {
+    "male": "أعد الظهور",
+    "female": "أعيدي الظهور",
+    "neutral": "إعادة الظهور"
+  },
+  "resumeGame": {
+    "male": "استأنف اللعب",
+    "female": "استأنفي اللعب",
+    "neutral": "استئناف اللعب"
+  },
+  "retryLevel": {
+    "male": "أعد المستوى",
+    "female": "أعيدي المستوى",
+    "neutral": "إعادة المستوى"
+  },
+  "retryMission": {
+    "male": "أعد محاولة المهمة",
+    "female": "أعيدي محاولة المهمة",
+    "neutral": "إعادة محاولة المهمة"
+  },
+  "rewardClaimed": {
+    "male": "لقد طالبتَ بالمكافأة",
+    "female": "لقد طالبتِ بالمكافأة"
+  },
+  "rewardUnlocked": {
+    "neutral": "فُتحت مكافأة"
+  },
+  "roundCompleted": {
+    "neutral": "اكتملت الجولة"
+  },
+  "roundLost": {
+    "neutral": "خُسرت الجولة"
+  },
+  "roundWon": {
+    "neutral": "رُبِحت الجولة"
+  },
+  "scoreMultiplier": {
+    "neutral": "مضاعِف النقاط"
+  },
+  "selectCharacter": {
+    "male": "اختر الشخصية",
+    "female": "اختاري الشخصية",
+    "neutral": "اختيار الشخصية"
+  },
+  "selectDifficulty": {
+    "male": "اختر الصعوبة",
+    "female": "اختاري الصعوبة",
+    "neutral": "اختيار الصعوبة"
+  },
+  "showHint": {
+    "male": "أظهِر تلميحاً",
+    "female": "أظهِري تلميحاً",
+    "neutral": "إظهار تلميح"
+  },
+  "spectatorMode": {
+    "neutral": "وضع المشاهدة"
+  },
+  "startGame": {
+    "male": "ابدأ اللعب",
+    "female": "ابدئي اللعب",
+    "neutral": "بدء اللعب"
+  },
+  "startMatch": {
+    "male": "ابدأ المباراة",
+    "female": "ابدئي المباراة",
+    "neutral": "بدء المباراة"
+  },
+  "survivalMode": {
+    "neutral": "وضع البقاء"
+  },
+  "teamLost": {
+    "neutral": "خسر الفريق"
+  },
+  "teamWon": {
+    "neutral": "فاز الفريق"
+  },
+  "timeRemaining": {
+    "neutral": "الوقت المتبقي"
+  },
+  "timeUp": {
+    "neutral": "انتهى الوقت"
+  },
+  "tutorialCompleted": {
+    "neutral": "اكتمل التدريب"
+  },
+  "unlockWithCoins": {
+    "male": "افتح بالعملات",
+    "female": "افتحي بالعملات",
+    "neutral": "الفتح بالعملات"
+  },
+  "upgradeCharacter": {
+    "male": "طوّر الشخصية",
+    "female": "طوّري الشخصية",
+    "neutral": "تطوير الشخصية"
+  },
+  "waitingForPlayers": {
+    "neutral": "بانتظار اللاعبين"
+  },
+  "youAreTopPlayer": {
+    "male": "أنتَ أفضل لاعب",
+    "female": "أنتِ أفضل لاعبة"
+  },
+  "youBeatHighScore": {
+    "male": "لقد حطّمتَ رقمَكَ القياسيّ",
+    "female": "لقد حطّمتِ رقمَكِ القياسيّ"
+  },
+  "youCompletedChallenge": {
+    "male": "لقد أكملتَ التحدّي",
+    "female": "لقد أكملتِ التحدّي"
+  },
+  "youCompletedMission": {
+    "male": "لقد أكملتَ المهمة",
+    "female": "لقد أكملتِ المهمة"
+  },
+  "youDefeatedBoss": {
+    "male": "لقد هزمتَ الزعيم",
+    "female": "لقد هزمتِ الزعيم"
+  },
+  "youEarnedBadge": {
+    "male": "لقد حصلتَ على وسام",
+    "female": "لقد حصلتِ على وسام"
+  },
+  "youJoinedMatch": {
+    "male": "لقد انضممتَ للمباراة",
+    "female": "لقد انضممتِ للمباراة"
+  },
+  "youLeveledUp": {
+    "male": "لقد ارتقيتَ للمستوى التالي",
+    "female": "لقد ارتقيتِ للمستوى التالي"
+  },
+  "youLost": {
+    "male": "لقد خسرتَ",
+    "female": "لقد خسرتِ"
+  },
+  "youRankedUp": {
+    "male": "لقد تقدّمتَ في الترتيب",
+    "female": "لقد تقدّمتِ في الترتيب"
+  },
+  "youReachedFinalLevel": {
+    "male": "لقد بلغتَ المستوى الأخير",
+    "female": "لقد بلغتِ المستوى الأخير"
+  },
+  "youReachedNextLevel": {
+    "male": "لقد بلغتَ المستوى التالي",
+    "female": "لقد بلغتِ المستوى التالي"
+  },
+  "youWon": {
+    "male": "لقد فزتَ",
+    "female": "لقد فزتِ"
+  },
+  "yourHighScore": {
+    "male": "رقمكَ القياسيّ",
+    "female": "رقمكِ القياسيّ"
+  },
+  "yourOpponent": {
+    "male": "خصمُكَ",
+    "female": "خصمُكِ"
+  },
+  "yourRank": {
+    "male": "ترتيبكَ",
+    "female": "ترتيبكِ"
+  },
+  "yourScore": {
+    "male": "نتيجتكَ",
+    "female": "نتيجتكِ"
+  },
+  "yourTeam": {
+    "male": "فريقكَ",
+    "female": "فريقكِ"
+  },
+  "yourTurn": {
+    "male": "دورُكَ الآن",
+    "female": "دورُكِ الآن"
+  }
+}

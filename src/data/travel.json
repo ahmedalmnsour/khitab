@@ -1,0 +1,489 @@
+{
+  "addBaggage": {
+    "male": "أضف أمتعة",
+    "female": "أضيفي أمتعة",
+    "neutral": "إضافة الأمتعة"
+  },
+  "addPassengerDetails": {
+    "male": "أضف بيانات المسافر",
+    "female": "أضيفي بيانات المسافر",
+    "neutral": "إضافة بيانات المسافر"
+  },
+  "addSpecialRequest": {
+    "male": "أضف طلباً خاصاً",
+    "female": "أضيفي طلباً خاصاً",
+    "neutral": "إضافة طلب خاص"
+  },
+  "airportTransfer": {
+    "neutral": "النقل من المطار"
+  },
+  "arrivalTime": {
+    "neutral": "موعد الوصول"
+  },
+  "arriveAtAirportEarly": {
+    "male": "احضر إلى المطار مبكراً",
+    "female": "احضري إلى المطار مبكراً",
+    "neutral": "الحضور إلى المطار مبكراً"
+  },
+  "availableRooms": {
+    "neutral": "الغرف المتاحة"
+  },
+  "baggageAllowance": {
+    "neutral": "وزن الأمتعة المسموح به"
+  },
+  "baggageClaim": {
+    "neutral": "استلام الأمتعة"
+  },
+  "baggageDelayed": {
+    "neutral": "تأخّرت الأمتعة"
+  },
+  "baggageDrop": {
+    "neutral": "تسليم الأمتعة"
+  },
+  "baggageLost": {
+    "neutral": "الأمتعة مفقودة"
+  },
+  "baggageOnBelt": {
+    "male": "أمتعتكَ على الحزام",
+    "female": "أمتعتكِ على الحزام"
+  },
+  "baggageTag": {
+    "neutral": "بطاقة الأمتعة"
+  },
+  "baggageWeight": {
+    "neutral": "وزن الأمتعة"
+  },
+  "boardNow": {
+    "male": "اصعد الآن",
+    "female": "اصعدي الآن",
+    "neutral": "الصعود الآن"
+  },
+  "boardingGate": {
+    "neutral": "بوابة الصعود"
+  },
+  "boardingGroup": {
+    "neutral": "مجموعة الصعود"
+  },
+  "boardingPass": {
+    "neutral": "بطاقة الصعود"
+  },
+  "boardingPassReady": {
+    "male": "بطاقة صعودكَ جاهزة",
+    "female": "بطاقة صعودكِ جاهزة"
+  },
+  "boardingSoon": {
+    "neutral": "يبدأ الصعود قريباً"
+  },
+  "boardingStarted": {
+    "neutral": "بدأ الصعود"
+  },
+  "boardingTime": {
+    "neutral": "موعد الصعود"
+  },
+  "bookFlight": {
+    "male": "احجز رحلة",
+    "female": "احجزي رحلة",
+    "neutral": "حجز رحلة"
+  },
+  "bookHotel": {
+    "male": "احجز فندقاً",
+    "female": "احجزي فندقاً",
+    "neutral": "حجز فندق"
+  },
+  "bookingConfirmed": {
+    "male": "تأكّد حجزكَ",
+    "female": "تأكّد حجزكِ"
+  },
+  "bookingDate": {
+    "neutral": "تاريخ الحجز"
+  },
+  "bookingReference": {
+    "neutral": "رقم مرجع الحجز"
+  },
+  "bookingSummary": {
+    "neutral": "ملخّص الحجز"
+  },
+  "breakfastIncluded": {
+    "neutral": "الفطور مشمول"
+  },
+  "cabinBaggage": {
+    "neutral": "أمتعة المقصورة"
+  },
+  "cabinClass": {
+    "neutral": "درجة المقصورة"
+  },
+  "cancelBooking": {
+    "male": "ألغِ حجزكَ",
+    "female": "ألغي حجزكِ",
+    "neutral": "إلغاء الحجز"
+  },
+  "changeFlight": {
+    "male": "غيّر رحلتكَ",
+    "female": "غيّري رحلتكِ",
+    "neutral": "تغيير الرحلة"
+  },
+  "checkIn": {
+    "male": "سجّل وصولكَ",
+    "female": "سجّلي وصولكِ",
+    "neutral": "تسجيل الوصول"
+  },
+  "checkInClosesSoon": {
+    "neutral": "يُغلق تسجيل الوصول قريباً"
+  },
+  "checkInCounter": {
+    "neutral": "مكتب تسجيل الوصول"
+  },
+  "checkInOpen": {
+    "neutral": "تسجيل الوصول متاح"
+  },
+  "checkInRequired": {
+    "neutral": "تسجيل الوصول مطلوب قبل السفر"
+  },
+  "checkedBaggage": {
+    "neutral": "الأمتعة المسجّلة"
+  },
+  "classUpgraded": {
+    "male": "تمّت ترقية درجتكَ",
+    "female": "تمّت ترقية درجتكِ"
+  },
+  "confirmBooking": {
+    "male": "أكّد حجزكَ",
+    "female": "أكّدي حجزكِ",
+    "neutral": "تأكيد الحجز"
+  },
+  "currentTrip": {
+    "male": "رحلتكَ الحالية",
+    "female": "رحلتكِ الحالية"
+  },
+  "customsDeclaration": {
+    "neutral": "التصريح الجمركيّ"
+  },
+  "departureAirport": {
+    "neutral": "مطار المغادرة"
+  },
+  "departureTime": {
+    "neutral": "موعد الإقلاع"
+  },
+  "downloadBoardingPass": {
+    "male": "حمّل بطاقة الصعود",
+    "female": "حمّلي بطاقة الصعود",
+    "neutral": "تحميل بطاقة الصعود"
+  },
+  "downloadItinerary": {
+    "male": "حمّل خطّ السير",
+    "female": "حمّلي خطّ السير",
+    "neutral": "تحميل خطّ السير"
+  },
+  "earlyCheckIn": {
+    "neutral": "تسجيل الدخول المبكّر"
+  },
+  "editBooking": {
+    "male": "عدّل حجزكَ",
+    "female": "عدّلي حجزكِ",
+    "neutral": "تعديل الحجز"
+  },
+  "extendStay": {
+    "male": "مدّد إقامتكَ",
+    "female": "مدّدي إقامتكِ",
+    "neutral": "تمديد الإقامة"
+  },
+  "extraBaggage": {
+    "neutral": "أمتعة إضافية"
+  },
+  "finalCall": {
+    "neutral": "النداء الأخير للصعود"
+  },
+  "flightCancelled": {
+    "neutral": "أُلغيت الرحلة"
+  },
+  "flightDelayed": {
+    "neutral": "تأخّرت الرحلة"
+  },
+  "flightDeparted": {
+    "neutral": "غادرت الرحلة"
+  },
+  "flightDetails": {
+    "neutral": "تفاصيل الرحلة"
+  },
+  "flightDuration": {
+    "neutral": "مدّة الرحلة"
+  },
+  "flightLanded": {
+    "neutral": "هبطت الرحلة"
+  },
+  "flightNumber": {
+    "neutral": "رقم الرحلة"
+  },
+  "flightOnTime": {
+    "neutral": "الرحلة في موعدها"
+  },
+  "flightReminder": {
+    "male": "اقتربت رحلتكَ",
+    "female": "اقتربت رحلتكِ"
+  },
+  "flightRescheduled": {
+    "neutral": "تغيّر موعد الرحلة"
+  },
+  "flightStatus": {
+    "neutral": "حالة الرحلة"
+  },
+  "flightTicket": {
+    "neutral": "تذكرة الرحلة"
+  },
+  "flightTomorrow": {
+    "male": "رحلتكَ غداً",
+    "female": "رحلتكِ غداً"
+  },
+  "gateChanged": {
+    "neutral": "تغيّرت البوابة"
+  },
+  "gateClosed": {
+    "neutral": "أُغلقت بوابة الصعود"
+  },
+  "gateOpen": {
+    "neutral": "فُتحت بوابة الصعود"
+  },
+  "hotelAddress": {
+    "neutral": "عنوان الفندق"
+  },
+  "hotelBookingConfirmed": {
+    "male": "تأكّد حجز فندقكَ",
+    "female": "تأكّد حجز فندقكِ"
+  },
+  "hotelCheckInTime": {
+    "neutral": "موعد تسجيل الدخول"
+  },
+  "hotelCheckOutTime": {
+    "neutral": "موعد المغادرة"
+  },
+  "hotelConfirmationNumber": {
+    "neutral": "رقم تأكيد الفندق"
+  },
+  "hotelRequestReceived": {
+    "male": "استُلم طلبكَ الخاص",
+    "female": "استُلم طلبكِ الخاص"
+  },
+  "inFlightMeals": {
+    "neutral": "وجبات الرحلة"
+  },
+  "itinerary": {
+    "neutral": "خطّ سير الرحلة"
+  },
+  "lateCheckOut": {
+    "neutral": "مغادرة متأخرة"
+  },
+  "layover": {
+    "neutral": "التوقّف بين الرحلتين"
+  },
+  "loungeAccess": {
+    "neutral": "الدخول إلى صالة الانتظار"
+  },
+  "manageBooking": {
+    "male": "أدِر حجزكَ",
+    "female": "أديري حجزكِ",
+    "neutral": "إدارة الحجز"
+  },
+  "modifySearch": {
+    "male": "عدّل بحثكَ",
+    "female": "عدّلي بحثكِ",
+    "neutral": "تعديل البحث"
+  },
+  "multiCity": {
+    "neutral": "وجهات متعددة"
+  },
+  "nearbyAirport": {
+    "neutral": "مطار قريب"
+  },
+  "nightsCount": {
+    "neutral": "عدد الليالي"
+  },
+  "oneWay": {
+    "neutral": "رحلة ذهاب فقط"
+  },
+  "passengerName": {
+    "neutral": "اسم المسافر"
+  },
+  "passportDetailsRequired": {
+    "neutral": "بيانات الجواز مطلوبة للسفر"
+  },
+  "passportValidForTravel": {
+    "neutral": "صلاحية الجواز كافية للسفر"
+  },
+  "pastTrip": {
+    "male": "رحلتكَ السابقة",
+    "female": "رحلتكِ السابقة"
+  },
+  "priorityBoarding": {
+    "neutral": "الصعود ذو الأولوية"
+  },
+  "proceedToGate": {
+    "male": "توجّه إلى البوابة",
+    "female": "توجّهي إلى البوابة",
+    "neutral": "التوجّه إلى البوابة"
+  },
+  "rebookFlight": {
+    "male": "أعد حجز رحلتكَ",
+    "female": "أعيدي حجز رحلتكِ",
+    "neutral": "إعادة حجز الرحلة"
+  },
+  "reportMissingBaggage": {
+    "male": "أبلغ عن أمتعة مفقودة",
+    "female": "أبلغي عن أمتعة مفقودة",
+    "neutral": "الإبلاغ عن أمتعة مفقودة"
+  },
+  "roomReady": {
+    "male": "غرفتكَ جاهزة",
+    "female": "غرفتكِ جاهزة"
+  },
+  "roomType": {
+    "neutral": "نوع الغرفة"
+  },
+  "roundTrip": {
+    "neutral": "ذهاب وعودة"
+  },
+  "searchFlights": {
+    "male": "ابحث عن رحلة",
+    "female": "ابحثي عن رحلة",
+    "neutral": "البحث عن رحلات"
+  },
+  "seatAssigned": {
+    "male": "خُصّص لكَ مقعد",
+    "female": "خُصّص لكِ مقعد"
+  },
+  "seatChanged": {
+    "male": "تغيّر مقعدكَ",
+    "female": "تغيّر مقعدكِ"
+  },
+  "seatConfirmed": {
+    "male": "تأكّد مقعدكَ",
+    "female": "تأكّد مقعدكِ"
+  },
+  "seatMap": {
+    "neutral": "خريطة المقاعد"
+  },
+  "seatNumber": {
+    "neutral": "رقم المقعد"
+  },
+  "seatUpgradeAvailable": {
+    "neutral": "ترقية المقعد متاحة"
+  },
+  "selectDepartureFlight": {
+    "male": "اختر رحلة الذهاب",
+    "female": "اختاري رحلة الذهاب",
+    "neutral": "اختيار رحلة الذهاب"
+  },
+  "selectMeal": {
+    "male": "اختر وجبتكَ",
+    "female": "اختاري وجبتكِ",
+    "neutral": "اختيار الوجبة"
+  },
+  "selectReturnFlight": {
+    "male": "اختر رحلة العودة",
+    "female": "اختاري رحلة العودة",
+    "neutral": "اختيار رحلة العودة"
+  },
+  "selectRoom": {
+    "male": "اختر غرفتكَ",
+    "female": "اختاري غرفتكِ",
+    "neutral": "اختيار الغرفة"
+  },
+  "selectSeat": {
+    "male": "اختر مقعدكَ",
+    "female": "اختاري مقعدكِ",
+    "neutral": "اختيار المقعد"
+  },
+  "specialAssistance": {
+    "male": "اطلب مساعدة خاصة",
+    "female": "اطلبي مساعدة خاصة",
+    "neutral": "طلب مساعدة خاصة"
+  },
+  "terminalChanged": {
+    "neutral": "تغيّرت الصالة"
+  },
+  "terminalNumber": {
+    "neutral": "رقم الصالة"
+  },
+  "ticketPrice": {
+    "neutral": "سعر التذكرة"
+  },
+  "trackBaggage": {
+    "male": "تتبّع أمتعتكَ",
+    "female": "تتبّعي أمتعتكِ",
+    "neutral": "تتبّع الأمتعة"
+  },
+  "travelDates": {
+    "neutral": "مواعيد السفر"
+  },
+  "travelDocuments": {
+    "neutral": "وثائق السفر"
+  },
+  "travelInsurance": {
+    "neutral": "تأمين السفر"
+  },
+  "tripCompleted": {
+    "male": "اكتملت رحلتكَ",
+    "female": "اكتملت رحلتكِ"
+  },
+  "upcomingTrip": {
+    "male": "رحلتكَ القادمة",
+    "female": "رحلتكِ القادمة"
+  },
+  "upgradeClass": {
+    "male": "رقِّ درجتكَ",
+    "female": "رقّي درجتكِ",
+    "neutral": "ترقية الدرجة"
+  },
+  "visaMayBeRequired": {
+    "neutral": "قد تكون التأشيرة مطلوبة"
+  },
+  "visaNotRequired": {
+    "neutral": "لا تأشيرة مطلوبة لهذه الوجهة"
+  },
+  "visaRequiredForDestination": {
+    "neutral": "التأشيرة مطلوبة لهذه الوجهة"
+  },
+  "youAddedBaggage": {
+    "male": "لقد أضفتَ أمتعة",
+    "female": "لقد أضفتِ أمتعة"
+  },
+  "youBoarded": {
+    "male": "لقد صعدتَ إلى الطائرة",
+    "female": "لقد صعدتِ إلى الطائرة"
+  },
+  "youBookedFlight": {
+    "male": "لقد حجزتَ رحلتكَ",
+    "female": "لقد حجزتِ رحلتكِ"
+  },
+  "youCancelledBooking": {
+    "male": "لقد ألغيتَ حجزكَ",
+    "female": "لقد ألغيتِ حجزكِ"
+  },
+  "youCheckedIn": {
+    "male": "لقد سجّلتَ وصولكَ",
+    "female": "لقد سجّلتِ وصولكِ"
+  },
+  "youDroppedBaggage": {
+    "male": "لقد سلّمتَ أمتعتكَ",
+    "female": "لقد سلّمتِ أمتعتكِ"
+  },
+  "youMissedFlight": {
+    "male": "لقد فاتتكَ الرحلة",
+    "female": "لقد فاتتكِ الرحلة"
+  },
+  "youModifiedBooking": {
+    "male": "لقد عدّلتَ حجزكَ",
+    "female": "لقد عدّلتِ حجزكِ"
+  },
+  "youSelectedRoom": {
+    "male": "لقد اخترتَ غرفتكَ",
+    "female": "لقد اخترتِ غرفتكِ"
+  },
+  "youSelectedSeat": {
+    "male": "لقد اخترتَ مقعدكَ",
+    "female": "لقد اخترتِ مقعدكِ"
+  },
+  "youUpgradedClass": {
+    "male": "لقد رقّيتَ درجتكَ",
+    "female": "لقد رقّيتِ درجتكِ"
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "addGiftWrap": {
+    "male": "أضف تغليف هدية",
+    "female": "أضيفي تغليف هدية",
+    "neutral": "إضافة تغليف هدية"
+  },
+  "addNewCard": {
+    "male": "أضف بطاقة جديدة",
+    "female": "أضيفي بطاقة جديدة",
+    "neutral": "إضافة بطاقة جديدة"
+  },
+  "addOrderNote": {
+    "male": "أضف ملاحظة للطلب",
+    "female": "أضيفي ملاحظة للطلب",
+    "neutral": "إضافة ملاحظة للطلب"
+  },
+  "addShippingAddress": {
+    "male": "أضف عنوان الشحن",
+    "female": "أضيفي عنوان الشحن",
+    "neutral": "إضافة عنوان الشحن"
+  },
+  "addToCart": {
+    "male": "أضف إلى السلة",
+    "female": "أضيفي إلى السلة",
+    "neutral": "إضافة إلى السلة"
+  },
+  "addToWishlist": {
+    "male": "أضف إلى المفضّلة",
+    "female": "أضيفي إلى المفضّلة",
+    "neutral": "إضافة إلى المفضّلة"
+  },
+  "addedToCart": {
+    "neutral": "تمت إضافة المنتج إلى السلة"
+  },
+  "addedToWishlist": {
+    "neutral": "تمت الإضافة إلى المفضّلة"
+  },
+  "addressSaved": {
+    "neutral": "تم حفظ العنوان"
+  },
+  "almostThere": {
+    "male": "اقتربتَ من إتمام الطلب",
+    "female": "اقتربتِ من إتمام الطلب",
+    "neutral": "اقترب إتمام الطلب"
+  },
+  "applyCoupon": {
+    "male": "طبّق الكوبون",
+    "female": "طبّقي الكوبون",
+    "neutral": "تطبيق الكوبون"
+  },
+  "applyFilter": {
+    "male": "طبّق التصفية",
+    "female": "طبّقي التصفية",
+    "neutral": "تطبيق التصفية"
+  },
+  "awaitingPayment": {
+    "neutral": "بانتظار الدفع"
+  },
+  "backInStock": {
+    "neutral": "توفّر المنتج من جديد"
+  },
+  "browseCategories": {
+    "male": "تصفّح الأقسام",
+    "female": "تصفّحي الأقسام"
+  },
+  "buyNow": {
+    "male": "اشترِ الآن",
+    "female": "اشتري الآن",
+    "neutral": "الشراء الآن"
+  },
+  "cancelOrder": {
+    "male": "ألغِ الطلب",
+    "female": "ألغي الطلب",
+    "neutral": "إلغاء الطلب"
+  },
+  "cardDeclined": {
+    "neutral": "رُفضت البطاقة"
+  },
+  "cartEmpty": {
+    "male": "سلّتكَ فارغة",
+    "female": "سلّتكِ فارغة"
+  },
+  "cartSaved": {
+    "male": "حُفظت سلّتكَ",
+    "female": "حُفظت سلّتكِ"
+  },
+  "cashOnDeliveryUnavailable": {
+    "neutral": "الدفع عند الاستلام غير متاح"
+  },
+  "changeAddress": {
+    "male": "غيّر العنوان",
+    "female": "غيّري العنوان",
+    "neutral": "تغيير العنوان"
+  },
+  "checkout": {
+    "male": "أتمم الشراء",
+    "female": "أتممي الشراء",
+    "neutral": "إتمام الشراء"
+  },
+  "checkoutAsGuest": {
+    "male": "أتمم الشراء كضيف",
+    "female": "أتممي الشراء كضيفة",
+    "neutral": "إتمام الشراء كزائر"
+  },
+  "chooseColor": {
+    "male": "اختر اللون",
+    "female": "اختاري اللون",
+    "neutral": "اختيار اللون"
+  },
+  "chooseSize": {
+    "male": "اختر المقاس",
+    "female": "اختاري المقاس",
+    "neutral": "اختيار المقاس"
+  },
+  "clearCart": {
+    "male": "أفرِغ السلة",
+    "female": "أفرغي السلة",
+    "neutral": "إفراغ السلة"
+  },
+  "compareProducts": {
+    "male": "قارن المنتجات",
+    "female": "قارني المنتجات",
+    "neutral": "مقارنة المنتجات"
+  },
+  "confirmOrder": {
+    "male": "أكّد الطلب",
+    "female": "أكّدي الطلب",
+    "neutral": "تأكيد الطلب"
+  },
+  "contactSeller": {
+    "male": "تواصل مع البائع",
+    "female": "تواصلي مع البائع",
+    "neutral": "التواصل مع البائع"
+  },
+  "contactSupport": {
+    "male": "تواصل مع الدعم",
+    "female": "تواصلي مع الدعم",
+    "neutral": "التواصل مع الدعم"
+  },
+  "continueShopping": {
+    "male": "تابع التسوّق",
+    "female": "تابعي التسوّق",
+    "neutral": "متابعة التسوّق"
+  },
+  "continueWhereLeft": {
+    "male": "تابع من حيث توقّفتَ",
+    "female": "تابعي من حيث توقّفتِ"
+  },
+  "copyCouponCode": {
+    "male": "انسخ رمز الكوبون",
+    "female": "انسخي رمز الكوبون",
+    "neutral": "نسخ رمز الكوبون"
+  },
+  "couponApplied": {
+    "neutral": "تم تطبيق الكوبون"
+  },
+  "couponExpired": {
+    "neutral": "انتهت صلاحية الكوبون"
+  },
+  "couponNotApplicable": {
+    "neutral": "الكوبون لا ينطبق على هذه السلة"
+  },
+  "couponRemoved": {
+    "neutral": "تمت إزالة الكوبون"
+  },
+  "createAccountToSave": {
+    "male": "أنشئ حساباً لحفظ السلة",
+    "female": "أنشئي حساباً لحفظ السلة",
+    "neutral": "إنشاء حساب لحفظ السلة"
+  },
+  "deliveryDelayed": {
+    "neutral": "تأخّر التوصيل"
+  },
+  "deliveryFailed": {
+    "neutral": "تعذّر تسليم الطلب"
+  },
+  "discountApplied": {
+    "neutral": "تم تطبيق الخصم"
+  },
+  "downloadInvoice": {
+    "male": "حمّل الفاتورة",
+    "female": "حمّلي الفاتورة",
+    "neutral": "تحميل الفاتورة"
+  },
+  "emptyWishlist": {
+    "neutral": "قائمة المفضّلة فارغة"
+  },
+  "enterPromoCode": {
+    "male": "أدخل رمز الخصم",
+    "female": "أدخلي رمز الخصم",
+    "neutral": "إدخال رمز الخصم"
+  },
+  "estimateShipping": {
+    "male": "احسب تكلفة الشحن",
+    "female": "احسبي تكلفة الشحن",
+    "neutral": "حساب تكلفة الشحن"
+  },
+  "estimatedDelivery": {
+    "neutral": "موعد التوصيل المتوقّع"
+  },
+  "freeShippingApplied": {
+    "neutral": "تم تطبيق الشحن المجاني"
+  },
+  "giftWrapAdded": {
+    "neutral": "تمت إضافة تغليف الهدية"
+  },
+  "inTransit": {
+    "neutral": "الشحنة في الطريق"
+  },
+  "incompleteAddress": {
+    "neutral": "العنوان غير مكتمل"
+  },
+  "invalidAddress": {
+    "neutral": "العنوان غير صحيح"
+  },
+  "invalidCoupon": {
+    "neutral": "الكوبون غير صالح"
+  },
+  "invoiceReady": {
+    "neutral": "الفاتورة جاهزة"
+  },
+  "itemRemoved": {
+    "neutral": "تمت إزالة المنتج من السلة"
+  },
+  "itemsWaiting": {
+    "male": "عناصر في سلّتكَ بانتظاركَ",
+    "female": "عناصر في سلّتكِ بانتظاركِ"
+  },
+  "loadingProducts": {
+    "neutral": "جارٍ تحميل المنتجات"
+  },
+  "loginToCheckout": {
+    "male": "سجّل الدخول لإتمام الشراء",
+    "female": "سجّلي الدخول لإتمام الشراء",
+    "neutral": "تسجيل الدخول لإتمام الشراء"
+  },
+  "lowStock": {
+    "neutral": "بقي عدد محدود في المخزون"
+  },
+  "markAsReceived": {
+    "male": "أكّد استلام الطلب",
+    "female": "أكّدي استلام الطلب",
+    "neutral": "تأكيد استلام الطلب"
+  },
+  "minOrderNotMet": {
+    "neutral": "لم يبلغ الطلب الحدّ الأدنى"
+  },
+  "newsletterSubscribed": {
+    "male": "تم اشتراككَ في النشرة",
+    "female": "تم اشتراككِ في النشرة"
+  },
+  "noPastOrders": {
+    "neutral": "لا توجد طلبات سابقة"
+  },
+  "noSearchResults": {
+    "male": "لم نعثر على ما تبحث عنه",
+    "female": "لم نعثر على ما تبحثين عنه",
+    "neutral": "لا توجد نتائج مطابقة"
+  },
+  "notifyMe": {
+    "male": "أعلِمني عند التوفّر",
+    "female": "أعلِميني عند التوفّر"
+  },
+  "orderCancelled": {
+    "neutral": "تم إلغاء الطلب"
+  },
+  "orderConfirmed": {
+    "male": "تم تأكيد طلبكَ",
+    "female": "تم تأكيد طلبكِ"
+  },
+  "orderProcessing": {
+    "neutral": "الطلب قيد التجهيز"
+  },
+  "orderReturned": {
+    "neutral": "تم إرجاع الطلب"
+  },
+  "orderShipped": {
+    "male": "تم شحن طلبكَ",
+    "female": "تم شحن طلبكِ"
+  },
+  "outForDelivery": {
+    "male": "طلبكَ في الطريق إليكَ",
+    "female": "طلبكِ في الطريق إليكِ"
+  },
+  "outOfStock": {
+    "neutral": "نفد من المخزون"
+  },
+  "paymentMethodInvalid": {
+    "neutral": "طريقة الدفع غير صالحة"
+  },
+  "paymentMethodRequired": {
+    "neutral": "يجب اختيار طريقة الدفع"
+  },
+  "priceChanged": {
+    "neutral": "تغيّر سعر أحد المنتجات"
+  },
+  "priceDropAlert": {
+    "male": "انخفض سعر منتجٍ في مفضّلتكَ",
+    "female": "انخفض سعر منتجٍ في مفضّلتكِ"
+  },
+  "productDelivered": {
+    "neutral": "تم تسليم الطلب"
+  },
+  "productUnavailable": {
+    "neutral": "المنتج غير متاح"
+  },
+  "quantityLimitReached": {
+    "neutral": "بلغت الكمية الحدّ الأقصى المسموح"
+  },
+  "quantityUnavailable": {
+    "neutral": "الكمية المطلوبة غير متوفّرة"
+  },
+  "quantityUpdated": {
+    "neutral": "تم تحديث الكمية"
+  },
+  "rateProduct": {
+    "male": "قيّم المنتج",
+    "female": "قيّمي المنتج",
+    "neutral": "تقييم المنتج"
+  },
+  "readyForPickup": {
+    "male": "طلبكَ جاهز للاستلام",
+    "female": "طلبكِ جاهز للاستلام"
+  },
+  "redeemPoints": {
+    "male": "استبدل النقاط",
+    "female": "استبدلي النقاط",
+    "neutral": "استبدال النقاط"
+  },
+  "refundFailed": {
+    "neutral": "تعذّر إتمام الاسترداد"
+  },
+  "refundInitiated": {
+    "neutral": "بدأت عملية الاسترداد"
+  },
+  "refundIssued": {
+    "neutral": "تمت إعادة المبلغ"
+  },
+  "refundProcessing": {
+    "neutral": "جارٍ معالجة الاسترداد"
+  },
+  "removeCoupon": {
+    "male": "أزل الكوبون",
+    "female": "أزيلي الكوبون",
+    "neutral": "إزالة الكوبون"
+  },
+  "removeFromCart": {
+    "male": "أزل من السلة",
+    "female": "أزيلي من السلة",
+    "neutral": "إزالة من السلة"
+  },
+  "reorder": {
+    "male": "أعد الطلب",
+    "female": "أعيدي الطلب",
+    "neutral": "إعادة الطلب"
+  },
+  "reportIssue": {
+    "male": "أبلغ عن مشكلة",
+    "female": "أبلغي عن مشكلة",
+    "neutral": "الإبلاغ عن مشكلة"
+  },
+  "requestRefund": {
+    "male": "اطلب استرداد المبلغ",
+    "female": "اطلبي استرداد المبلغ",
+    "neutral": "طلب استرداد المبلغ"
+  },
+  "returnApproved": {
+    "male": "تمت الموافقة على طلب استرجاعكَ",
+    "female": "تمت الموافقة على طلب استرجاعكِ"
+  },
+  "returnItem": {
+    "male": "أرجِع المنتج",
+    "female": "أرجعي المنتج",
+    "neutral": "إرجاع المنتج"
+  },
+  "returnRejected": {
+    "male": "رُفض طلب استرجاعكَ",
+    "female": "رُفض طلب استرجاعكِ"
+  },
+  "reviewPending": {
+    "male": "تقييمكَ قيد المراجعة",
+    "female": "تقييمكِ قيد المراجعة"
+  },
+  "reviewSubmitted": {
+    "neutral": "تم إرسال التقييم"
+  },
+  "saveForLater": {
+    "male": "احفظ لوقت لاحق",
+    "female": "احفظي لوقت لاحق",
+    "neutral": "حفظ لوقت لاحق"
+  },
+  "savedForLater": {
+    "neutral": "تم الحفظ لوقت لاحق"
+  },
+  "selectAddress": {
+    "male": "اختر عنوان التوصيل",
+    "female": "اختاري عنوان التوصيل",
+    "neutral": "اختيار عنوان التوصيل"
+  },
+  "selectQuantity": {
+    "male": "اختر الكمية",
+    "female": "اختاري الكمية",
+    "neutral": "اختيار الكمية"
+  },
+  "setAsDefault": {
+    "male": "اجعله الافتراضي",
+    "female": "اجعليه الافتراضي",
+    "neutral": "تعيين كافتراضي"
+  },
+  "shareProduct": {
+    "male": "شارك المنتج",
+    "female": "شاركي المنتج",
+    "neutral": "مشاركة المنتج"
+  },
+  "shippingAddressUpdated": {
+    "neutral": "تم تحديث عنوان الشحن"
+  },
+  "shippingFeeCalculated": {
+    "neutral": "تم احتساب رسوم الشحن"
+  },
+  "shippingUnavailable": {
+    "neutral": "الشحن غير متاح لهذا العنوان"
+  },
+  "sortBy": {
+    "male": "رتّب حسب",
+    "female": "رتّبي حسب",
+    "neutral": "الترتيب حسب"
+  },
+  "subscribeAndSave": {
+    "male": "اشترك ووفّر",
+    "female": "اشتركي ووفّري",
+    "neutral": "الاشتراك والتوفير"
+  },
+  "trackOrder": {
+    "male": "تتبّع طلبكَ",
+    "female": "تتبّعي طلبكِ",
+    "neutral": "تتبّع الطلب"
+  },
+  "trackingNumberCopied": {
+    "neutral": "تم نسخ رقم التتبّع"
+  },
+  "updateCart": {
+    "male": "حدّث السلة",
+    "female": "حدّثي السلة",
+    "neutral": "تحديث السلة"
+  },
+  "viewCart": {
+    "male": "اعرض السلة",
+    "female": "اعرضي السلة",
+    "neutral": "عرض السلة"
+  },
+  "viewDetails": {
+    "male": "اعرض التفاصيل",
+    "female": "اعرضي التفاصيل",
+    "neutral": "عرض التفاصيل"
+  },
+  "viewOrderDetails": {
+    "male": "اطّلع على تفاصيل طلبكَ",
+    "female": "اطّلعي على تفاصيل طلبكِ",
+    "neutral": "عرض تفاصيل الطلب"
+  },
+  "weReceivedOrder": {
+    "male": "استلمنا طلبكَ",
+    "female": "استلمنا طلبكِ"
+  },
+  "writeReview": {
+    "male": "اكتب تقييماً",
+    "female": "اكتبي تقييماً",
+    "neutral": "كتابة تقييم"
+  },
+  "youBoughtThis": {
+    "male": "لقد اشتريتَ هذا مسبقاً",
+    "female": "لقد اشتريتِ هذا مسبقاً"
+  },
+  "youCancelledOrder": {
+    "male": "لقد ألغيتَ الطلب",
+    "female": "لقد ألغيتِ الطلب"
+  },
+  "youCompletedOrder": {
+    "male": "لقد أتممتَ طلبكَ",
+    "female": "لقد أتممتِ طلبكِ"
+  },
+  "youEarnedPoints": {
+    "male": "لقد ربحتَ نقاطاً",
+    "female": "لقد ربحتِ نقاطاً"
+  },
+  "youRatedProduct": {
+    "male": "لقد قيّمتَ المنتج",
+    "female": "لقد قيّمتِ المنتج"
+  },
+  "youReturnedItem": {
+    "male": "لقد أرجعتَ المنتج",
+    "female": "لقد أرجعتِ المنتج"
+  },
+  "youSavedAmount": {
+    "male": "وفّرتَ على طلبكَ",
+    "female": "وفّرتِ على طلبكِ"
+  },
+  "youUsedCoupon": {
+    "male": "لقد استخدمتَ الكوبون",
+    "female": "لقد استخدمتِ الكوبون"
+  }
+}

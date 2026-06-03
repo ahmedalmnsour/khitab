@@ -1,0 +1,366 @@
+{
+  "acceptFareSurge": {
+    "male": "اقبل الزيادة في الأجرة",
+    "female": "اقبلي الزيادة في الأجرة",
+    "neutral": "قبول الزيادة في الأجرة"
+  },
+  "addDeliveryInstructions": {
+    "male": "أضف تعليمات التوصيل",
+    "female": "أضيفي تعليمات التوصيل",
+    "neutral": "إضافة تعليمات التوصيل"
+  },
+  "addStop": {
+    "male": "أضف نقطة توقّف",
+    "female": "أضيفي نقطة توقّف",
+    "neutral": "إضافة نقطة توقّف"
+  },
+  "arrivedAtDestination": {
+    "male": "لقد وصلتَ إلى وجهتكَ",
+    "female": "لقد وصلتِ إلى وجهتكِ"
+  },
+  "arrivingNow": {
+    "neutral": "السائق يصل الآن"
+  },
+  "callCourier": {
+    "male": "اتصل بمندوب التوصيل",
+    "female": "اتصلي بمندوب التوصيل",
+    "neutral": "الاتصال بمندوب التوصيل"
+  },
+  "callDriver": {
+    "male": "اتصل بالسائق",
+    "female": "اتصلي بالسائق",
+    "neutral": "الاتصال بالسائق"
+  },
+  "cancelRide": {
+    "male": "ألغِ المشوار",
+    "female": "ألغي المشوار",
+    "neutral": "إلغاء المشوار"
+  },
+  "changeDestination": {
+    "male": "غيّر الوجهة",
+    "female": "غيّري الوجهة",
+    "neutral": "تغيير الوجهة"
+  },
+  "changePickupLocation": {
+    "male": "غيّر موقع الالتقاط",
+    "female": "غيّري موقع الالتقاط",
+    "neutral": "تغيير موقع الالتقاط"
+  },
+  "chooseVehicleType": {
+    "male": "اختر نوع المركبة",
+    "female": "اختاري نوع المركبة"
+  },
+  "confirmDestination": {
+    "male": "أكّد الوجهة",
+    "female": "أكّدي الوجهة",
+    "neutral": "تأكيد الوجهة"
+  },
+  "confirmDropoff": {
+    "male": "أكّد تسليم الطرد",
+    "female": "أكّدي تسليم الطرد"
+  },
+  "confirmPickupLocation": {
+    "male": "أكّد موقع الالتقاط",
+    "female": "أكّدي موقع الالتقاط",
+    "neutral": "تأكيد موقع الالتقاط"
+  },
+  "confirmRide": {
+    "male": "أكّد المشوار",
+    "female": "أكّدي المشوار"
+  },
+  "contactlessDelivery": {
+    "neutral": "التوصيل دون تلامس"
+  },
+  "courierArrived": {
+    "male": "وصل مندوب التوصيل إليكَ",
+    "female": "وصل مندوب التوصيل إليكِ"
+  },
+  "courierAssigned": {
+    "neutral": "تم تعيين مندوب توصيل"
+  },
+  "courierCancelled": {
+    "neutral": "ألغى المندوب التوصيل"
+  },
+  "courierDelayed": {
+    "neutral": "تأخر مندوب التوصيل"
+  },
+  "courierOnTheWay": {
+    "male": "مندوب التوصيل في طريقه إليكَ",
+    "female": "مندوب التوصيل في طريقه إليكِ"
+  },
+  "deliveryCompleted": {
+    "neutral": "اكتمل التوصيل"
+  },
+  "deliveryFee": {
+    "neutral": "رسوم التوصيل"
+  },
+  "deliveryInProgress": {
+    "neutral": "التوصيل جارٍ"
+  },
+  "deliveryInstructions": {
+    "neutral": "تعليمات التوصيل"
+  },
+  "deliveryOnHold": {
+    "neutral": "التوصيل معلّق مؤقتاً"
+  },
+  "deliveryTimeUpdated": {
+    "neutral": "تم تحديث وقت التوصيل"
+  },
+  "destination": {
+    "neutral": "الوجهة"
+  },
+  "destinationUpdated": {
+    "neutral": "تم تحديث الوجهة"
+  },
+  "driverArrived": {
+    "male": "وصل السائق إليكَ",
+    "female": "وصل السائق إليكِ"
+  },
+  "driverAssigned": {
+    "neutral": "تم تعيين سائق"
+  },
+  "driverCancelledRide": {
+    "neutral": "ألغى السائق المشوار"
+  },
+  "driverDelayed": {
+    "neutral": "تأخر السائق"
+  },
+  "driverDetails": {
+    "neutral": "بيانات السائق"
+  },
+  "driverIsWaiting": {
+    "male": "السائق في انتظاركَ",
+    "female": "السائق في انتظاركِ"
+  },
+  "driverOnTheWay": {
+    "male": "السائق في طريقه إليكَ",
+    "female": "السائق في طريقه إليكِ"
+  },
+  "dropoffLocation": {
+    "neutral": "موقع الوصول"
+  },
+  "estimatedFare": {
+    "neutral": "الأجرة المتوقّعة"
+  },
+  "fareBreakdown": {
+    "neutral": "تفاصيل الأجرة"
+  },
+  "fareChanged": {
+    "neutral": "تغيّرت الأجرة"
+  },
+  "fareEstimateUnavailable": {
+    "neutral": "تعذّر حساب الأجرة المتوقّعة"
+  },
+  "finalFare": {
+    "neutral": "الأجرة النهائية"
+  },
+  "findingCourier": {
+    "neutral": "جارٍ البحث عن مندوب توصيل"
+  },
+  "findingDriver": {
+    "neutral": "جارٍ البحث عن سائق"
+  },
+  "fragilePackage": {
+    "neutral": "طرد قابل للكسر"
+  },
+  "howWasYourRide": {
+    "male": "كيف كان مشواركَ؟",
+    "female": "كيف كان مشواركِ؟",
+    "neutral": "كيف كان المشوار؟"
+  },
+  "leaveAtDoor": {
+    "male": "اطلب تركه عند الباب",
+    "female": "اطلبي تركه عند الباب",
+    "neutral": "طلب تركه عند الباب"
+  },
+  "meetDriverOutside": {
+    "male": "قابِل السائق في الخارج",
+    "female": "قابلي السائق في الخارج",
+    "neutral": "مقابلة السائق في الخارج"
+  },
+  "messageCourier": {
+    "male": "راسل مندوب التوصيل",
+    "female": "راسلي مندوب التوصيل",
+    "neutral": "مراسلة مندوب التوصيل"
+  },
+  "messageDriver": {
+    "male": "راسل السائق",
+    "female": "راسلي السائق",
+    "neutral": "مراسلة السائق"
+  },
+  "minimumFare": {
+    "neutral": "الحدّ الأدنى للأجرة"
+  },
+  "noCourierAvailable": {
+    "neutral": "لا يوجد مندوب توصيل متاح"
+  },
+  "noDriverAvailable": {
+    "neutral": "لا يوجد سائق متاح"
+  },
+  "parcelContent": {
+    "neutral": "محتوى الطرد"
+  },
+  "parcelDelivered": {
+    "male": "تم تسليم طردكَ",
+    "female": "تم تسليم طردكِ"
+  },
+  "parcelOnTheWay": {
+    "male": "طردكَ في الطريق",
+    "female": "طردكِ في الطريق"
+  },
+  "parcelPickedUp": {
+    "male": "تم استلام طردكَ",
+    "female": "تم استلام طردكِ"
+  },
+  "parcelSize": {
+    "neutral": "حجم الطرد"
+  },
+  "parcelWeight": {
+    "neutral": "وزن الطرد"
+  },
+  "pickupLocation": {
+    "neutral": "موقع الالتقاط"
+  },
+  "pinLocation": {
+    "male": "حدّد الموقع على الخريطة",
+    "female": "حدّدي الموقع على الخريطة",
+    "neutral": "تحديد الموقع على الخريطة"
+  },
+  "rateCourier": {
+    "male": "قيّم مندوب التوصيل",
+    "female": "قيّمي مندوب التوصيل",
+    "neutral": "تقييم مندوب التوصيل"
+  },
+  "rateDriver": {
+    "male": "قيّم السائق",
+    "female": "قيّمي السائق",
+    "neutral": "تقييم السائق"
+  },
+  "recipientDetails": {
+    "neutral": "بيانات المستلِم"
+  },
+  "recipientName": {
+    "neutral": "اسم المستلِم"
+  },
+  "recipientNotAvailable": {
+    "neutral": "المستلِم غير متاح"
+  },
+  "recipientPhone": {
+    "neutral": "رقم هاتف المستلِم"
+  },
+  "requestDelivery": {
+    "male": "اطلب توصيلاً",
+    "female": "اطلبي توصيلاً"
+  },
+  "requestRide": {
+    "male": "اطلب مشواراً",
+    "female": "اطلبي مشواراً",
+    "neutral": "طلب مشوار"
+  },
+  "rideCompleted": {
+    "male": "اكتمل مشواركَ",
+    "female": "اكتمل مشواركِ"
+  },
+  "rideConfirmed": {
+    "neutral": "تم تأكيد المشوار"
+  },
+  "rideInProgress": {
+    "neutral": "المشوار جارٍ"
+  },
+  "rideScheduled": {
+    "neutral": "تمت جدولة المشوار"
+  },
+  "rideStarted": {
+    "male": "بدأ مشواركَ",
+    "female": "بدأ مشواركِ"
+  },
+  "scheduleRide": {
+    "male": "حدّد موعداً لمشوار",
+    "female": "حدّدي موعداً لمشوار",
+    "neutral": "تحديد موعد لمشوار"
+  },
+  "senderDetails": {
+    "neutral": "بيانات المُرسِل"
+  },
+  "senderName": {
+    "neutral": "اسم المُرسِل"
+  },
+  "setDropoffLocation": {
+    "male": "حدّد موقع الوصول",
+    "female": "حدّدي موقع الوصول"
+  },
+  "setPickupLocation": {
+    "male": "حدّد موقع الالتقاط",
+    "female": "حدّدي موقع الالتقاط"
+  },
+  "shareDeliveryStatus": {
+    "male": "شارك حالة التوصيل",
+    "female": "شاركي حالة التوصيل",
+    "neutral": "مشاركة حالة التوصيل"
+  },
+  "shareRideStatus": {
+    "male": "شارك حالة مشواركَ",
+    "female": "شاركي حالة مشواركِ",
+    "neutral": "مشاركة حالة المشوار"
+  },
+  "splitFare": {
+    "male": "قسّم الأجرة",
+    "female": "قسّمي الأجرة",
+    "neutral": "تقسيم الأجرة"
+  },
+  "surgePricing": {
+    "neutral": "تسعيرة الذروة"
+  },
+  "tollFees": {
+    "neutral": "رسوم الطرق"
+  },
+  "trackCourier": {
+    "male": "تتبّع المندوب",
+    "female": "تتبّعي المندوب"
+  },
+  "trackDriver": {
+    "male": "تتبّع السائق",
+    "female": "تتبّعي السائق"
+  },
+  "vehicleColor": {
+    "neutral": "لون المركبة"
+  },
+  "vehicleDetails": {
+    "neutral": "تفاصيل المركبة"
+  },
+  "vehiclePlateNumber": {
+    "neutral": "رقم لوحة المركبة"
+  },
+  "verifyDriver": {
+    "male": "تحقّق من السائق",
+    "female": "تحقّقي من السائق"
+  },
+  "verifyRide": {
+    "male": "تحقّق من مشواركَ",
+    "female": "تحقّقي من مشواركِ",
+    "neutral": "التحقّق من المشوار"
+  },
+  "waitingForDriver": {
+    "neutral": "في انتظار السائق"
+  },
+  "whereTo": {
+    "male": "إلى أين تريد الذهاب؟",
+    "female": "إلى أين تريدين الذهاب؟"
+  },
+  "youCancelledDelivery": {
+    "male": "لقد ألغيتَ التوصيل",
+    "female": "لقد ألغيتِ التوصيل"
+  },
+  "youCancelledRide": {
+    "male": "لقد ألغيتَ المشوار",
+    "female": "لقد ألغيتِ المشوار"
+  },
+  "yourCourierIsNearby": {
+    "male": "مندوب التوصيل قريب منكَ",
+    "female": "مندوب التوصيل قريب منكِ"
+  },
+  "yourDriverIsNearby": {
+    "male": "السائق قريب منكَ",
+    "female": "السائق قريب منكِ"
+  }
+}
