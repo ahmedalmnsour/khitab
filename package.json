@@ -1,6 +1,6 @@
 {
   "name": "@khitab/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ready-made, gender-aware Arabic phrases for UI text (male/female/neutral). Lightweight, TypeScript-first, framework-agnostic.",
   "sideEffects": false,
   "type": "module",

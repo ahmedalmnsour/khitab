@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-06-06
+
+### Changed
+- تحديث التوثيق فقط، لا تغيير في الكود ولا القاموس: تعليمة التثبيت صارت `npm install @khitab/core@alpha`، وأُزيلت عبارة «غير منشور على npm بعد» من الـREADMEين بعد أن صار النشر واقعاً.
+
 ## [0.1.0] - 2026-06-03
 
 ### Added
@@ -14,5 +19,6 @@
 - تعريفات أنواع TypeScript كاملة (ESM + CJS).
 - مجموعة اختبارات شاملة مع فحوصات سلامة البيانات، وتكامل مستمر (CI).
 
-[Unreleased]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/ahmedalmnsour/khitab/releases/tag/v0.1.0
