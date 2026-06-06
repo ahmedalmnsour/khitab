@@ -24,8 +24,10 @@ It ships 1367 reviewed phrases (780 gendered, 587 naturally neutral) across a co
 ## Install
 
 ```bash
-npm install @khitab/core
+npm install @khitab/core@alpha
 ```
+
+> The `@alpha` tag is intentional: the library is currently in its alpha stage, and typing `alpha` yourself is a conscious acknowledgment of that. Once it reaches stability, the plain install will become the recommended one, in shaa' Allah.
 
 ## Quick start
 
@@ -45,7 +47,7 @@ See [`examples/basic.ts`](./examples/basic.ts) for the neutral-fallback and erro
 
 ## ⚠️ Alpha
 
-This is an alpha release: the phrase dictionary is complete and reviewed, but the library has not yet been tested in real-world projects. No npm package published yet. The API may change before a stable release.
+This is an alpha release (published to npm under the `alpha` tag): the phrase dictionary is complete and reviewed, but the library has not yet been tested in real-world projects. The API may change before a stable release.
 
 ## Full documentation
 

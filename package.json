@@ -2,14 +2,52 @@
   "name": "@khitab/core",
   "version": "0.1.0",
   "description": "Ready-made, gender-aware Arabic phrases for UI text (male/female/neutral). Lightweight, TypeScript-first, framework-agnostic.",
-  "private": true,
   "sideEffects": false,
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist"
+  ],
   "license": "MIT",
   "author": "Ahmed Almnsour",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedalmnsour/khitab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmedalmnsour/khitab/issues"
+  },
+  "homepage": "https://github.com/ahmedalmnsour/khitab#readme",
+  "keywords": [
+    "arabic",
+    "i18n",
+    "l10n",
+    "gender",
+    "grammatical-gender",
+    "phrases",
+    "ui-text",
+    "rtl",
+    "typescript"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "tag": "alpha"
+  },
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest",
@@ -17,7 +55,8 @@
     "lint": "eslint src tests",
     "format": "prettier --write \"**/*.{ts,json,md}\"",
     "typecheck": "tsc --noEmit",
-    "validate": "node scripts/validate-json.js"
+    "validate": "node scripts/validate-json.js",
+    "prepublishOnly": "npm run validate && npm run lint && npm run typecheck && npm run test && npm run build"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
