@@ -24,7 +24,7 @@ export function App() {
     <div className="page">
       <header className="hero">
         <h1>خِطاب · khitab</h1>
-        <p className="tagline">صيغ المخاطبة العربية للواجهات | عرض حيّ</p>
+        <p className="tagline">صيغ المخاطبة العربية للواجهات | عرض حي</p>
         <span className="badge">⚠️ Alpha</span>
       </header>
 
@@ -43,7 +43,7 @@ export function App() {
                    onChange={(e) => setEmail(e.target.value)} placeholder="name@example.com" />
           </label>
           <button className="primary" type="submit">{t('register')}</button>
-          <p className="muted">{t('areYouSure')} — {t('wantContinue')}</p>
+          <p className="muted">{t('areYouSure')} | {t('wantContinue')}</p>
         </form>
       ) : (
         <div className="card success">
