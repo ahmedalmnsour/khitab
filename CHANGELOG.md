@@ -2,6 +2,16 @@
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-06-11
+
+### Fixed
+- Correct hamzat al-wasl in imperative phrases: `أدخل` → `ادخل`.
+
+### Documentation
+- Fix neutral-form example in README: `save` → `view`.
+- Clarify SSR wording around shared state and request leakage.
+- Clarify stderr/stdout ordering in `examples/basic.ts` comment.
+
 ## [0.1.1] - 2026-06-06
 
 ### Changed
@@ -19,6 +29,7 @@
 - تعريفات أنواع TypeScript كاملة (ESM + CJS).
 - مجموعة اختبارات شاملة مع فحوصات سلامة البيانات، وتكامل مستمر (CI).
 
-[Unreleased]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/ahmedalmnsour/khitab/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/ahmedalmnsour/khitab/releases/tag/v0.1.0

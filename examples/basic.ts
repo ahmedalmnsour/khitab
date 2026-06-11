@@ -25,7 +25,7 @@ console.log(khitab('tryLater', 'female')); // يُرجى المحاولة لاح
 //    and emits a console.warn — a practical, not ideal, default. Many gendered
 //    phrases do ship a neutral (masdar) form; those return it directly.
 //    Prefer a real gender, or contribute a neutral wording where it fits.
-console.log(khitab('save', 'neutral')); // احفظ  (+ warning on stderr)
+console.log(khitab('save', 'neutral')); // warning on stderr, then احفظ on stdout
 
 // 4) Factory — for LOCAL scope only (inside a component or request handler).
 //    Never create a Factory in global scope on a server: it leaks between
